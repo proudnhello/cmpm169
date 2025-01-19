@@ -2,7 +2,7 @@
 <html>
 <head>
 	<!-- This title is used for tabs and bookmarks -->
-	<title>Experiment X - Subject/Topic</title>
+	<title>Experiment 1 - Vector Art and Animation</title>
 
 	<!-- Use UTF character set, a good idea with any webpage -->
 	<meta charset="UTF-8" />
@@ -32,7 +32,7 @@
 	<main id="content">
 		<section>
 
-			<h1>Experiment X - Subject/Topic</h1>
+			<h1>Experiment 1 - Vector Art and Animation</h1>
 
 			<div class="minor-section">
 				<div id="canvas-container">
@@ -45,17 +45,19 @@
 
 			<div class="minor-section">
 				<h2>Description</h2>
-				<p>What are you trying to acomplish with this experiment?</p>
+				<p>For this experiment, I had seen a number of other vector art projects that I thought looked very cool, most notably <a href="https://editor.p5js.org/yuin/sketches/SyLCrVJbN">Matrix, by yuin</a> and <a href="https://editor.p5js.org/wmodes/sketches/SFh-TOVFs">Single Line Noise Tracers Refactor OOP, by Wes Modes</a>. I liked both the seemingly controlled and mesured patters of the first, and the seemingly chaotic and unpredictable nature of the second. I wanted to see if I could combine the two, by introducing the same sort of noise used for the noise tracers inside a matrix of my own design. I was also inspired somewhat by tesla coils, and I wanted to create something that looked like a matrix of tesla coils by using noise to imitate the jerky movements of lightning. </p>
+				</p>
 			</div>
 
 			<div class="minor-section">
 				<h2>Technical</h2>
-				<p>Describe in detail what you did technically and how it works?</p>
+				<p>The way it works is fairly simple. Much the same as yuin's work, the matrix is made up of a series of squares of points, which are the gray dots you can see on the canvas. Each square can produce one bolt, with it doing so as soon as the previous one has completely disappeared and a random delay has elapsed. When it makes a new bolt, it selects a random point in itself, and another random point either in it or immediately adjacent. From there, it uses the p5.js noise function to create a noisy line between the two points. As it does so, it also draws a series of white ellipses with varing alpha values, to provide the appearnce of the bolts giving off light. Over the next several draw loops, it gradually reduces the alpha of all shapes involved until they dissapear completely. To examine the code yourself, and experiment with changing variables, <a href="https://editor.p5js.org/wmodes/sketches/SFh-TOVFs">you can find the code here </a></p>
+				</p>
 			</div>
 
 			<div class="minor-section">
 				<h2>Reflection</h2>
-				<p>Each person that worked on the code should reflect on the process, the difficulties, and the successes of the experiment.</p>
+				<p>At the start, I had my doubts if it would work. I worred the noise of the bolts would completely disrupt the patterns from chaos yuin's matrix created that I liked so much. However, it did actually end up looking suprisingly cool, which I was very happy about. The mesmerising nature of it remains alive and well, which is a result in my book. If I had more time to work on it, I think I would add branches off the main line, and perhaps the occasional miss, so as to make the bolts look even more like lightning. That being said, it was not all fantastic. I spent more time than I would care to admit creating a special case for horizontal and vertical lines becasue I was scared of p5.js' strange rotation function, only to not have many difficulties with it when I was forced to use it for diagonal lines. To add insult to injurt, the new method for diagonals would work perfectly well for both horizontal and vertical lines. That was not my proudest moment, and I wish I'd just put a bit more thought into the design of the lines before I wasted all that time. I can't even say I learned something, as everything I learned making the horizontal and vertical lines, I would have learned just as well had I started straight with the diagonal ones.</dialog></p>
 			</div>
 
 		</section>
