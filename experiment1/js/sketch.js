@@ -143,13 +143,30 @@ class Line{
   }
 }
 
+function resizeScreen() {
+  centerHorz = canvasContainer.width() / 2; // Adjusted for drawing logic
+  centerVert = canvasContainer.height() / 2; // Adjusted for drawing logic
+  console.log("Resizing...");
+  resizeCanvas(canvasContainer.width(), canvasContainer.height());
+  // redrawCanvas(); // Redraw everything based on new size
+}
+
 var squares = [];
 function setup() {
+  // place our canvas, making it fit our container
+  canvasContainer = $("#canvas-container");
+  let canvas = createCanvas(canvasContainer.width(), canvasContainer.height());
+  canvas.parent("canvas-container");
+  $(window).resize(function() {
+    resizeScreen();
+  });
+  G_WIDTH = canvasContainer.width()
+  G_HEIGHT = canvasContainer.height()
+  resizeScreen();
   setAttributes("alpha", true)
   G_COLOR_PT = color(240,235,235, 255)
   G_COLOR_LINE = color(206,194,39, 255)
   G_COLOR_BG = color(0,0,0, 255)
-  createCanvas(1200, 800);
   strokeWeight(G_STROKE_WEIGHT)
   
   for(let x = G_MARGIN; x < G_WIDTH-(G_MARGIN+G_SIZE); x += G_SIZE){
