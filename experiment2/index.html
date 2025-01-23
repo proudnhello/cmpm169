@@ -32,7 +32,7 @@
 	<main id="content">
 		<section>
 
-			<h1>Experiment X - Subject/Topic</h1>
+			<h1>Experiment 2 - Ebb and Flow of Life</h1>
 
 			<div class="minor-section">
 				<div id="canvas-container">
@@ -41,21 +41,28 @@
                 <div class="fullscreen-box">
                     <button id="fullscreen">Fullscreen</button>
                 </div>
+				<p>
+					Press p to pause the simulation.
+					Press r to turn off random conditions.
+					Press c to clear the grid.
+					Click and drag to create and kill cells.
+				</p>
 			</div>
 
 			<div class="minor-section">
 				<h2>Description</h2>
-				<p>What are you trying to acomplish with this experiment?</p>
+				<p>The goal of this experiment was to try and put a new twist on Conway's game of life. I wanted for there to be an ebb and flow to the life, where there would be great blooms of cells, which would then slowly but surely die off. While the normal game of life is interesting, I hoped this would make it feel more alive.</p>
 			</div>
 
 			<div class="minor-section">
 				<h2>Technical</h2>
-				<p>Describe in detail what you did technically and how it works?</p>
+				<p>The way it works is fairly simple. Using perlin noise, the program will decide if conditions are good for cells or if they are bad. If conditions are good, cells will begin to spawn in over the entire grid at random, based on how good things are. On the other hand, if conditions are bad, on the other hand, seemingly health cells will die at random. By using noise for this, the ebb and flow as good conditions create a bloom of cells and bad conditions cause most to die should feel natural. Unforunately, it is fairly intensive to simulate in p5.js, so not all of the canvas is covered.</p>
 			</div>
 
 			<div class="minor-section">
 				<h2>Reflection</h2>
-				<p>Each person that worked on the code should reflect on the process, the difficulties, and the successes of the experiment.</p>
+				<p>This was way more difficult than I had expected. I had severely underestimated how fine tuned the game of life was, and how any small changes would completely disrupt it. I spent ages fiddling with probabilities and settings to try and do anything that wouldn’t just kill the simulation and make it completely boring. The only thing I could figure out how to do was just add or remove cells, which was pretty disappointing to be honest. A good high was figuring out a really annoying bug where I was changing grid instead of nextGrid, which made everything not work. The biggest low was probably having to give up on the randomized reproduction and over/under population survival, as I could not get that working in an interesting way.
+				</p>
 			</div>
 
 		</section>
