@@ -45,7 +45,8 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   // place our canvas, making it fit our container
   canvasContainer = $("#canvas-container");
-  let canvas = createCanvas(canvasContainer.width(), canvasContainer.height());
+  let smaller = canvasContainer.width() < canvasContainer.height() ? canvasContainer.width() : canvasContainer.height();
+  let canvas = createCanvas(smaller, smaller);
   canvas.parent("canvas-container");
   // resize canvas is the page is resized
   $(window).resize(function() {
@@ -205,6 +206,7 @@ function resizeScreen() {
   centerVert = canvasContainer.height() / 2; // Adjusted for drawing logic
   console.log("Resizing...");
   let smaller = canvasContainer.width() < canvasContainer.height() ? canvasContainer.width() : canvasContainer.height();
+  console.log("New size: " + smaller);
   resizeCanvas(smaller, smaller);
   // redrawCanvas(); // Redraw everything based on new size
 }

@@ -2,7 +2,7 @@
 <html>
 <head>
 	<!-- This title is used for tabs and bookmarks -->
-	<title>Experiment X - Subject/Topic</title>
+	<title>Experiment 3 - Filters and Effects</title>
 
 	<!-- Use UTF character set, a good idea with any webpage -->
 	<meta charset="UTF-8" />
@@ -50,6 +50,7 @@
             </div>
 
 
+			<div class="minor-section">
 			<h2>Technical</h2>
                 <p>To get this working, there are two main parts, and oscillator and a band pass filter (inspiration for this was taken from <a href="https://openprocessing.org/sketch/1800102">Filter, by angeltapes)</a>. As the user moves their mouse up and down, the frequency of the oscillator changes, while as they move it left and right, the target frequency of the band filter changes. From here, each of the four corners has its own additional effect attached to it, varying in intensity as the mouse gets further from the center and closer to the corner (this is, by the way, why the canvas is a square. This distance from corners code doesn't work properly if it's a rectangle). The top left adds reverb to the sound, the bottom left adds an undercurrent of brown noise, the top right adds an echo, while the bottom right adds nothing. From there, a series of droplet objects are created for every frame the user is clicking, each of which draws an empty circle that grows in size every frame based on the filter target frequency, with the stroke alpha determined by the oscillator frequency.</p>
             </div>
