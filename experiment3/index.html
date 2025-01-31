@@ -46,17 +46,19 @@
 
 			<div class="minor-section">
 				<h2>Description</h2>
-				<p>What are you trying to acomplish with this experiment?</p>
-			</div>
+                <p>I wanted to create an interesting piece with a connection between the sounds being played and the images being created. You can click on the canvas to create a noise, and as you click or drag across different parts of the canvas, different sounds will be made. While this happens, different sized droplets will spill across the canvas in reaction to your click.</p>
+            </div>
 
-			<div class="minor-section">
-				<h2>Technical</h2>
-				<p>Describe in detail what you did technically and how it works?</p>
-			</div>
 
-			<div class="minor-section">
-				<h2>Reflection</h2>
-				<p>Each person that worked on the code should reflect on the process, the difficulties, and the successes of the experiment.</p>
+			<h2>Technical</h2>
+                <p>To get this working, there are two main parts, and oscillator and a band pass filter (inspiration for this was taken from <a href="https://openprocessing.org/sketch/1800102">Filter, by angeltapes)</a>. As the user moves their mouse up and down, the frequency of the oscillator changes, while as they move it left and right, the target frequency of the band filter changes. From here, each of the four corners has its own additional effect attached to it, varying in intensity as the mouse gets further from the center and closer to the corner (this is, by the way, why the canvas is a square. This distance from corners code doesn't work properly if it's a rectangle). The top left adds reverb to the sound, the bottom left adds an undercurrent of brown noise, the top right adds an echo, while the bottom right adds nothing. From there, a series of droplet objects are created for every frame the user is clicking, each of which draws an empty circle that grows in size every frame based on the filter target frequency, with the stroke alpha determined by the oscillator frequency.</p>
+            </div>
+
+
+            <div class="minor-section">
+                <h2>Reflection</h2>
+                <p>When it comes to this project, I would say the biggest high was making the drops vary based on the two frequencies, and being blown away by how perfect it was. I had unthinkingly chosen the axis and given entirely random rates of change, and yet it all just worked. So that was a fantastic surprise. My biggest low, by contrast, was trying two different effects for the corners in a row, and having them just not work. I think it was because I used pure tones made by the oscillator, but it’s entirely possible I just did not understand how they worked properly and messed it up. Whatever the case may be, it was very frustrating to have two things simply broken.
+				</p>
 			</div>
 
 		</section>
