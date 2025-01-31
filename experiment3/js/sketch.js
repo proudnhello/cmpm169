@@ -207,6 +207,6 @@ function resizeScreen() {
   console.log("Resizing...");
   let smaller = canvasContainer.width() < canvasContainer.height() ? canvasContainer.width() : canvasContainer.height();
   console.log("New size: " + smaller);
-  resizeCanvas(smaller, smaller);
+  resizeCanvas(smaller, smaller); 
   // redrawCanvas(); // Redraw everything based on new size
 }
