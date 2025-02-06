@@ -2,7 +2,7 @@
 <html>
 <head>
 	<!-- This title is used for tabs and bookmarks -->
-	<title>Experiment X - Subject/Topic</title>
+	<title>Experiment 5 - Infinitely Improbable Triangles</title>
 
 	<!-- Use UTF character set, a good idea with any webpage -->
 	<meta charset="UTF-8" />
@@ -32,11 +32,16 @@
 	<main id="content">
 		<section>
 
-			<h1>Experiment X - Subject/Topic</h1>
+			<h1>Experiment 5 - Infinitely Improbable Triangles</h1>
 
 			<div class="minor-section">
 				<div id="canvas-container">
 					<!-- canvas will be added here -->
+				</div>
+				<div class="controls">
+					Use WASD to move the camera up, left, right, and down, respectively. Use the click and drag mouse to look around. <br>
+					Use R and F to move forward and back (the view is orthagonal, so this will only do something if you're too close or too far away to see a triangle). <br>
+					Use E to spawn in more penrose triangles. 
 				</div>
                 <div class="fullscreen-box">
                     <button id="fullscreen">Fullscreen</button>
@@ -45,17 +50,19 @@
 
 			<div class="minor-section">
 				<h2>Description</h2>
-				<p>What are you trying to acomplish with this experiment?</p>
+				<p>The goal with this project was to create some impossible geometry, and allow the user to move around it. For help with drawing the triangles, I referenced <a href="https://www.youtube.com/watch?v=S-9VqHESD5o">this blender tutorial</a>. So, you can move around the scene with WASD and RF, and spawn in new triangles with E. The goal was to allow the user to examine how the penrose triangle works, and I find that being able to create new ones, then immediately ruin the effect is very interesting. Additionally, the graveyard of broken triangles looks really cool, to be technical.</p>
 			</div>
+
 
 			<div class="minor-section">
 				<h2>Technical</h2>
-				<p>Describe in detail what you did technically and how it works?</p>
+				<p>The triangles themselves are constructed of four boxes, with the two left boxes acting as masks for each other. One of the boxes is then slightly longer with the opposing clip being slightly shorter, to hide the stroke and hole where they overlap. Then, the camera is translated with WASD and RF. TDragging the mouse increases or decreases the pitch and tilt, depending on direction. The initial direction of the camera is then rotated by the pitch and tilt to create a final result. The hardest part was getting the triangle's illusion to line up with the camera direction. When every triangle is drawn, it is moved to where the camera was where it was placed. It is then rotated by the camera's pitch and tilt at that point, before being moved back to the origin, and then where it should be drawn. Finally, the boxes are drawn and the clips applied.</p>
 			</div>
+
 
 			<div class="minor-section">
 				<h2>Reflection</h2>
-				<p>Each person that worked on the code should reflect on the process, the difficulties, and the successes of the experiment.</p>
+				<p>To be honest, I really struggled with this project. Perhaps it comes across in how much time I spent documenting my struggles, but man, I really need to refresh on linear algebra. I had to think about those equations for way longer than I should have, and I still got them wrong most of the time. A big high was when I finally got the penrose triangles facing the camera. I had been struggling with it for hours by the time I got it working, and I was overjoyed. On the other hand, a big low was when I couldn’t get the triangle to adjust to the camera. I had initially tried to examine the blender package mentioned in the video I linked above to understand how it kept the impossible shapes intact when the camera was rotated outside of a true isometric view. Unfortunately, I both struggled to understand the math involved and why it was being done, due to my inexperience with blender packages. After a while, I just had to accept it wasn’t happening, and move on.</p>
 			</div>
 
 		</section>
