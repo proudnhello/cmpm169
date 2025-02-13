@@ -2,7 +2,7 @@
 <html>
 <head>
 	<!-- This title is used for tabs and bookmarks -->
-	<title>Experiment X - Subject/Topic</title>
+	<title>Experiment 5 - There Once Was a Man From Verdun</title>
 
 	<!-- Use UTF character set, a good idea with any webpage -->
 	<meta charset="UTF-8" />
@@ -18,10 +18,11 @@
         integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
         crossorigin="anonymous"></script>
 	<!-- Load p5.js library -->
-	<script src="https://cdn.jsdelivr.net/npm/p5@1.9.2/lib/p5.js"></script>
+	<!--<script src="https://cdn.jsdelivr.net/npm/p5@1.9.2/lib/p5.js"></script>-->
 
 	<!-- Link to javascript files - DEFER waits until all elements are rendered -->
     <script type="text/javascript" src="../js/site.js" DEFER></script>
+	<script type="text/javascript" src="./lib/tracery.js" DEFER></script>
 	<!-- Use me for a JavaScript OOP Project -->
 	<script type="text/javascript" src="./js/project.js" DEFER></script>
 	<!-- Use me for a p5.js project -->
@@ -32,11 +33,15 @@
 	<main id="content">
 		<section>
 
-			<h1>Experiment X - Subject/Topic</h1>
+			<h1>Experiment 5 - There Once Was a Man From Verdun</h1>
 
 			<div class="minor-section">
 				<div id="canvas-container">
-					<!-- canvas will be added here -->
+					<p id="line1">Making limerick</p>
+					<p id="line2"></p>
+					<p id="line3"></p>
+					<p id="line4"></p>
+					<p id="line5"></p>
 				</div>
                 <div class="fullscreen-box">
                     <button id="fullscreen">Fullscreen</button>
@@ -44,19 +49,23 @@
 			</div>
 
 			<div class="minor-section">
-				<h2>Description</h2>
-				<p>What are you trying to acomplish with this experiment?</p>
-			</div>
+                <h2>Description</h2>
+                <p>The goal of this project was to try and generate theoretically infinite limericks using a combination of a database of rhyming words and a grammar defined with tracery</p>
+            </div>
 
-			<div class="minor-section">
-				<h2>Technical</h2>
-				<p>Describe in detail what you did technically and how it works?</p>
-			</div>
 
-			<div class="minor-section">
-				<h2>Reflection</h2>
-				<p>Each person that worked on the code should reflect on the process, the difficulties, and the successes of the experiment.</p>
-			</div>
+            <div class="minor-section">
+                <h2>Technical</h2>
+                <p>The structure of a limerick is defined using a tracery grammar, based on Young Person of Smyrna by Edward Lear. To find the rhymes, a call to the DataMuse API is made, so that there are truly massive number of possible rhymes the limerick may choose from</p>
+            </div>
+
+
+            <div class="minor-section">
+                <h2>Reflection</h2>
+                <p> I am reasonably content with how this project turned out. To be honest, I was doubtful I could get it working at all, so creating a load of nonsense limericks that follow the rhyme scheme and sound good to say out loud was far better than what I had anticipated. There is something a bit funny there. I chose the title before I actually started work on the project, back when I hoped I might be able to generate limericks that make sense. Now, however, the title is even more fitting, as a punchline without the setup fits perfectly with a bunch of nonsensical limericks. A high was when I got that first set of rhymes done, because the limerick I wrote using those rhymes pretty much came to me when I first read them. That convinced me that I might actually be able to make something that worked. A low was when I realized the “machine learning association” thing the database I was accessing was using was not nearly as good as advertised. That was kind of my only hope to make the limericks make sense, so having it not work was disappointing.</p>
+            </div>
+
+
 
 		</section>
 		<nav id="links" class="minor-section">
