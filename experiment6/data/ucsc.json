@@ -1,0 +1,2947 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ca5fwb8fg4cfeQA4uQTYvVyiLi4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YKiVPiw5_9WFt5Jq0S8UPYfUFQY",
+            "id": "I5ULBoE2nBA",
+            "snippet": {
+                "publishedAt": "2021-05-17T21:12:35Z",
+                "channelId": "UCe31pHx5V5HPIivJ--YEp0Q",
+                "title": "MCYT's react to Business Bay||Mcyt||CREDITS IN VIDEO",
+                "description": "i have been rewatching Business Bays videos omg\ud83d\ude2d\u270b",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I5ULBoE2nBA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I5ULBoE2nBA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I5ULBoE2nBA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/I5ULBoE2nBA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/I5ULBoE2nBA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "rooki\u30eb\u30fc\u30ad",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "MCYT's react to Business Bay||Mcyt||CREDITS IN VIDEO",
+                    "description": "i have been rewatching Business Bays videos omg\ud83d\ude2d\u270b"
+                }
+            },
+            "statistics": {
+                "viewCount": "392494",
+                "likeCount": "13931",
+                "favoriteCount": "0",
+                "commentCount": "177"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "LIjGzTO824PpjN_G8Uga4J_IcUI",
+            "id": "snbt0PxRvpk",
+            "snippet": {
+                "publishedAt": "2019-11-19T19:50:07Z",
+                "channelId": "UCgom8AaP-BIJ64FoS5VXW6g",
+                "title": "UCSC CMPM 147 Generative Design, Tarn Adams Guest Talk November 2019",
+                "description": "Guest talk by Tarn Adams at the UCSC Generative Design class, in November 2019.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/snbt0PxRvpk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/snbt0PxRvpk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/snbt0PxRvpk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/snbt0PxRvpk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "playableUCSC",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UCSC CMPM 147 Generative Design, Tarn Adams Guest Talk November 2019",
+                    "description": "Guest talk by Tarn Adams at the UCSC Generative Design class, in November 2019."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "54481",
+                "favoriteCount": "0",
+                "commentCount": "76"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2Qe1XzPNDvGaBHm0Q7Xh3aIj4u8",
+            "id": "sdvyUX0uDYI",
+            "snippet": {
+                "publishedAt": "2021-12-08T10:00:24Z",
+                "channelId": "UCS7k8BM1ncGZD3e9qcSfRKw",
+                "title": "Full Send Mailbox Trail @UNITETOSHRED #mtblife #mtb #biking #fullsend #sendit  #enduro #fyp #yeti",
+                "description": "Kevin surprise me taking the longest gap jump on UCSC mailbox",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sdvyUX0uDYI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sdvyUX0uDYI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sdvyUX0uDYI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sdvyUX0uDYI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sdvyUX0uDYI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "D nut R",
+                "tags": [
+                    "#biking",
+                    "#mtb",
+                    "#mtblife",
+                    "#mtblifestyle",
+                    "#mtbenduro",
+                    "#yeti",
+                    "#yetitribe",
+                    "#sb150",
+                    "#enve",
+                    "#i9",
+                    "#industrynine",
+                    "#mountainbiking",
+                    "#ucscmtb",
+                    "#ucsc",
+                    "#mailbox",
+                    "#ucsc trails",
+                    "#yeticycles",
+                    "#youtubeshorts",
+                    "#fullsend",
+                    "#sendit",
+                    "#scott",
+                    "#shorts"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Full Send Mailbox Trail @UNITETOSHRED #mtblife #mtb #biking #fullsend #sendit  #enduro #fyp #yeti",
+                    "description": "Kevin surprise me taking the longest gap jump on UCSC mailbox"
+                }
+            },
+            "statistics": {
+                "viewCount": "16072",
+                "likeCount": "622",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "S6MbwBptH9s3EwCeEGVS9OPRUrk",
+            "id": "CcCjrNiRjdo",
+            "snippet": {
+                "publishedAt": "2019-04-24T19:43:08Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "What Mueller Missed \u2014 The Narrative No One Is Talking About: Daniel Sheehan 2019 Class #7",
+                "description": "\"What Mueller Missed\" section begins at 34:34\n\nOnline syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CcCjrNiRjdo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CcCjrNiRjdo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CcCjrNiRjdo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CcCjrNiRjdo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CcCjrNiRjdo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "Mueller Report",
+                    "Oil Deals",
+                    "Russia",
+                    "Daniel Sheehan",
+                    "Donald Trump",
+                    "Rex Tillerson",
+                    "UCSC 2019"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "What Mueller Missed \u2014 The Narrative No One Is Talking About: Daniel Sheehan 2019 Class #7",
+                    "description": "\"What Mueller Missed\" section begins at 34:34\n\nOnline syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "14648",
+                "likeCount": "244",
+                "favoriteCount": "0",
+                "commentCount": "107"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gOoMAhoLpuXS--8Mnh9jdoaUum4",
+            "id": "UUfOPwUUeas",
+            "snippet": {
+                "publishedAt": "2019-04-03T20:39:04Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "Global Climate Change, Standing Rock & Donald Trump: Daniel Sheehan 2019 Class #1",
+                "description": "Welcome to Daniel Sheehan's 5th UCSC course, The Trajectory of Justice in America, in the spring quarter of 2019. The intro lecture looks at the interrelation of the three components of the course. Learn more at https://danielpsheehan.com/tja2019/\n\nDonate to help us keep cranking out high quality media (and get more batteries so the good audio doesn't drop out...): https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UUfOPwUUeas/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UUfOPwUUeas/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UUfOPwUUeas/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UUfOPwUUeas/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UUfOPwUUeas/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "Daniel Sheehan",
+                    "Romero Institute",
+                    "UCSC 2019",
+                    "Trajectory of Justice",
+                    "Climate Change",
+                    "Standing Rock",
+                    "#NoDAPL",
+                    "Impeachment"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Global Climate Change, Standing Rock & Donald Trump: Daniel Sheehan 2019 Class #1",
+                    "description": "Welcome to Daniel Sheehan's 5th UCSC course, The Trajectory of Justice in America, in the spring quarter of 2019. The intro lecture looks at the interrelation of the three components of the course. Learn more at https://danielpsheehan.com/tja2019/\n\nDonate to help us keep cranking out high quality media (and get more batteries so the good audio doesn't drop out...): https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "14243",
+                "likeCount": "201",
+                "favoriteCount": "0",
+                "commentCount": "51"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "OY603fTIRMwKJYZgJOF0fTz7tDE",
+            "id": "UDsaaUBL00k",
+            "snippet": {
+                "publishedAt": "2022-10-27T13:00:18Z",
+                "channelId": "UCT4hX0DRGkr2sz3XMaUeemQ",
+                "title": "Saturn's Rings: The MYSTERY Explained! \ud83e\ude90 #shorts  #space #saturn",
+                "description": "The mystery of how Saturn got it's rings may now be solved thanks to scientists at @ucsantacruz, @BerkeleyNews and @mit  \n\n\u2014\u2014\u2014\n\n\ud83d\udcfa Subscribe! http://bit.ly/1fUWHyY\n\n\u27a1\ufe0f Fig. 1 explores groundbreaking ideas \u2014from science to art to history to psychology\u2014 and the brilliant minds behind it.\n\n\ud83d\udca1 Find more Fig. 1 at: http://www.universityofcalifornia.edu/fig1\n\n#Space #Saturn #Planet #Science #UCSC #UCBerkeley #UC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UDsaaUBL00k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UDsaaUBL00k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UDsaaUBL00k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UDsaaUBL00k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UDsaaUBL00k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fig. 1 by University of California",
+                "tags": [
+                    "saturn rings",
+                    "saturn",
+                    "solar system",
+                    "ucsc",
+                    "uc santa cruz",
+                    "uc berkeley",
+                    "cal",
+                    "mit",
+                    "ancient moon",
+                    "missing moon",
+                    "rings of saturn",
+                    "saturn rings disappearing",
+                    "science",
+                    "nasa news 2022",
+                    "saturn's rings",
+                    "saturn rings explained",
+                    "saturn rings real video",
+                    "space news 2022",
+                    "saturn ring formation",
+                    "space news",
+                    "astronomy",
+                    "universe",
+                    "saturns rings",
+                    "how saturn's rings formed",
+                    "why does saturn have rings",
+                    "moons of saturn",
+                    "saturn nasa",
+                    "solar system planets",
+                    "rings",
+                    "planet",
+                    "science documentary",
+                    "space",
+                    "cassini"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Saturn's Rings: The MYSTERY Explained! \ud83e\ude90 #shorts  #space #saturn",
+                    "description": "The mystery of how Saturn got it's rings may now be solved thanks to scientists at @ucsantacruz, @BerkeleyNews and @mit  \n\n\u2014\u2014\u2014\n\n\ud83d\udcfa Subscribe! http://bit.ly/1fUWHyY\n\n\u27a1\ufe0f Fig. 1 explores groundbreaking ideas \u2014from science to art to history to psychology\u2014 and the brilliant minds behind it.\n\n\ud83d\udca1 Find more Fig. 1 at: http://www.universityofcalifornia.edu/fig1\n\n#Space #Saturn #Planet #Science #UCSC #UCBerkeley #UC"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "12882",
+                "likeCount": "451",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-yUtV8-bs-kbbqC536U6vjOdv4A",
+            "id": "ZpcO9UxSr4A",
+            "snippet": {
+                "publishedAt": "2022-09-25T21:54:22Z",
+                "channelId": "UCh14L6bFmQwqkjHX_rAvOyg",
+                "title": "college diaries 1 .\u0cc3\u0fd0 | ucsc, 1st year, welcome week, exploring campus, food, & haul!",
+                "description": "\u2661 WATCH IN HD! \u2661\n\ncontext: finding my classes, exploring campus, sc broadwalk frolic, hanging out with da roomies, cornucopia, san jose trip, trying din tai fung for the first time (5/10, bc my mom can cook these hehe), mukbang, haul, & more!\n\nthanks for watching!! \ni hope y'all enjoyed the long awaited college vlog! more college content coming soon :)\ncomment down below if you have any questions!\n\n\u2193 social: \ninstagram: https://instagram.com/valariesitu/\n\n\u2709 email: \nvalariesitu@gmail.com (business inquiries only!)\n\n\u266c music:\nbgm\n\n\u10e6 about me:\nname: valarie situ \nage: 19\nethnicity: 100% chinese !! \n\n[ flimed 9.17.22 & edited 9.23,24,26.2022 ]\n#ucsc #universityvlog",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZpcO9UxSr4A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZpcO9UxSr4A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZpcO9UxSr4A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZpcO9UxSr4A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZpcO9UxSr4A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "val situ",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "college diaries 1 .\u0cc3\u0fd0 | ucsc, 1st year, welcome week, exploring campus, food, & haul!",
+                    "description": "\u2661 WATCH IN HD! \u2661\n\ncontext: finding my classes, exploring campus, sc broadwalk frolic, hanging out with da roomies, cornucopia, san jose trip, trying din tai fung for the first time (5/10, bc my mom can cook these hehe), mukbang, haul, & more!\n\nthanks for watching!! \ni hope y'all enjoyed the long awaited college vlog! more college content coming soon :)\ncomment down below if you have any questions!\n\n\u2193 social: \ninstagram: https://instagram.com/valariesitu/\n\n\u2709 email: \nvalariesitu@gmail.com (business inquiries only!)\n\n\u266c music:\nbgm\n\n\u10e6 about me:\nname: valarie situ \nage: 19\nethnicity: 100% chinese !! \n\n[ flimed 9.17.22 & edited 9.23,24,26.2022 ]\n#ucsc #universityvlog"
+                }
+            },
+            "statistics": {
+                "viewCount": "12365",
+                "likeCount": "176",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "qwhayVzOAO4K34eKjfiaNJ147Ms",
+            "id": "Jl_8zIgzOZQ",
+            "snippet": {
+                "publishedAt": "2021-01-14T04:19:28Z",
+                "channelId": "UCdSESswXth9DrSH9eZO7kxQ",
+                "title": "Pruning Deciduous Fruit Trees with Orin Martin",
+                "description": "Pome and stone fruits are featured in this online presentation on pruning and shaping fruit trees from Orin Martin, manager of the UCSC Alan Chadwick Garden and author of Fruit Trees for Every Garden. Center for Agroecology Website: https://agroecology.ucsc.edu/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jl_8zIgzOZQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jl_8zIgzOZQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jl_8zIgzOZQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Jl_8zIgzOZQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "UC Santa Cruz Center for Agroecology",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Pruning Deciduous Fruit Trees with Orin Martin",
+                    "description": "Pome and stone fruits are featured in this online presentation on pruning and shaping fruit trees from Orin Martin, manager of the UCSC Alan Chadwick Garden and author of Fruit Trees for Every Garden. Center for Agroecology Website: https://agroecology.ucsc.edu/"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "12175",
+                "likeCount": "266",
+                "favoriteCount": "0",
+                "commentCount": "26"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pa3VQpw0NOpIyLpvVl3spYziAOM",
+            "id": "Ye8fNE1mE4U",
+            "snippet": {
+                "publishedAt": "2023-11-12T03:22:46Z",
+                "channelId": "UCI_eYQrHBaVbH2mtixoq5Ag",
+                "title": "The Billy Meier Prophecies - Michael Horn, Coast to Coast am? Dr. Steven Greer",
+                "description": "support the program\nDonate: https://paypal.me/michaeldecon\nhttps://michaeldecon.com/community\nhttps://patreon.com/michaeldecon\nhttps://michaeldecon.com\n\n#MichaelDecon\n#MichaelHorn\n#Meier\n#billymeier\n#Radio\n#podcast \n#youtube \n#news \n#live \n#livestream",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ye8fNE1mE4U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ye8fNE1mE4U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ye8fNE1mE4U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ye8fNE1mE4U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ye8fNE1mE4U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Michael Decon Program",
+                "tags": [
+                    "Michael Decon",
+                    "Michael Horn",
+                    "Billy Meier",
+                    "Prophecy",
+                    "EndTimes",
+                    "Death",
+                    "Destruction",
+                    "Earth",
+                    "Doomed"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Billy Meier Prophecies - Michael Horn, Coast to Coast am? Dr. Steven Greer",
+                    "description": "support the program\nDonate: https://paypal.me/michaeldecon\nhttps://michaeldecon.com/community\nhttps://patreon.com/michaeldecon\nhttps://michaeldecon.com\n\n#MichaelDecon\n#MichaelHorn\n#Meier\n#billymeier\n#Radio\n#podcast \n#youtube \n#news \n#live \n#livestream"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "11402",
+                "likeCount": "170",
+                "favoriteCount": "0",
+                "commentCount": "23"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fu5cvWQk1_7-wQUe9GJpbKQJ3ek",
+            "id": "fjdKmDM0QEM",
+            "snippet": {
+                "publishedAt": "2020-02-25T03:53:52Z",
+                "channelId": "UCctf84AsNO56V1vC6y4dD7Q",
+                "title": "PhilVlog: EP 1 Day in my life at UCSC",
+                "description": "Friday routine as a UCSC student. I bring you through my day showing you my process from my 9 am class to the end of my school day. Please like, comment, and subscribe. Leave any suggestions in the comments and ill try my best to accommodate! \n\nThumbnail by @draventaitano\n\nMusic By: LAKEY INSPIRED\nOfficial SoundCloud  https://soundcloud.com/lakeyinspired\nOfficial YouTube Channel:\nhttps://www.youtube.com/channel/UCOmy8wuTpC95lefU5d1dt2Q\nLicense for commercial use: Creative Commons Attribution 3.0 Unported \"Share Alike\" (CC BY-SA 3.0) \nhttps://creativecommons.org/licenses/by-sa/3.0/legalcode\nMusic promoted by: Chill Out Records @ https://goo.gl/fh3rEJ\nwww.ChillOutMedia.com / www.LoFi-HipHop.com\n\nMusic by: Dj Quads\nSUBSCRIBE to the Official DJ Quads YouTube channel HERE: https://www.youtube.com/channel/UCusFqutyfTWRqGhC8kHA5uw\nFollow Dj Quads on SoundCloud HERE: https://soundcloud.com/aka-dj-quads\nFollow Dj Quads on Twitter HERE: https://twitter.com/DjQuads\nFollow Dj Quads on Spotify HERE: https://open.spotify.com/artist/2VZrdImbvB03VWApYtBRr3\nFollow Dj Quads on Instagram HERE: https://www.instagram.com/djquads/\nSupport Dj Quads on Patreon HERE: https://www.patreon.com/DjQuads\nMusic released by: Chill Out Records https://goo.gl/fh3rEJ @\nwww.ChillOutMedia.com / www.LoFi-HipHop.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fjdKmDM0QEM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fjdKmDM0QEM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fjdKmDM0QEM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fjdKmDM0QEM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fjdKmDM0QEM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phil Huang",
+                "tags": [
+                    "2-20-20",
+                    "UCSC",
+                    "Crown",
+                    "UC",
+                    "Santa Cruz",
+                    "Student",
+                    "classes",
+                    "library",
+                    "SNE",
+                    "Daily life",
+                    "vlog",
+                    "Not International",
+                    "collegelife",
+                    "college",
+                    "trees"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PhilVlog: EP 1 Day in my life at UCSC",
+                    "description": "Friday routine as a UCSC student. I bring you through my day showing you my process from my 9 am class to the end of my school day. Please like, comment, and subscribe. Leave any suggestions in the comments and ill try my best to accommodate! \n\nThumbnail by @draventaitano\n\nMusic By: LAKEY INSPIRED\nOfficial SoundCloud  https://soundcloud.com/lakeyinspired\nOfficial YouTube Channel:\nhttps://www.youtube.com/channel/UCOmy8wuTpC95lefU5d1dt2Q\nLicense for commercial use: Creative Commons Attribution 3.0 Unported \"Share Alike\" (CC BY-SA 3.0) \nhttps://creativecommons.org/licenses/by-sa/3.0/legalcode\nMusic promoted by: Chill Out Records @ https://goo.gl/fh3rEJ\nwww.ChillOutMedia.com / www.LoFi-HipHop.com\n\nMusic by: Dj Quads\nSUBSCRIBE to the Official DJ Quads YouTube channel HERE: https://www.youtube.com/channel/UCusFqutyfTWRqGhC8kHA5uw\nFollow Dj Quads on SoundCloud HERE: https://soundcloud.com/aka-dj-quads\nFollow Dj Quads on Twitter HERE: https://twitter.com/DjQuads\nFollow Dj Quads on Spotify HERE: https://open.spotify.com/artist/2VZrdImbvB03VWApYtBRr3\nFollow Dj Quads on Instagram HERE: https://www.instagram.com/djquads/\nSupport Dj Quads on Patreon HERE: https://www.patreon.com/DjQuads\nMusic released by: Chill Out Records https://goo.gl/fh3rEJ @\nwww.ChillOutMedia.com / www.LoFi-HipHop.com"
+                }
+            },
+            "statistics": {
+                "viewCount": "8682",
+                "likeCount": "188",
+                "favoriteCount": "0",
+                "commentCount": "42"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_7AGNeeQsyeTsRMYfIYVeTPaA0g",
+            "id": "F-nXvZ-fGws",
+            "snippet": {
+                "publishedAt": "2023-02-19T21:59:08Z",
+                "channelId": "UChAZHvVXLMDKYXIuU7mnV8A",
+                "title": "UCSC Billing Statements: How to locate and read your UCSC bill",
+                "description": "UCSC students can watch this video to learn how to locate their university billing statements, decipher important information about tuition, fees, charges, and due dates, and figure out how much they are required to pay on their UCSC account by each payment due date.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F-nXvZ-fGws/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F-nXvZ-fGws/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F-nXvZ-fGws/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F-nXvZ-fGws/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "UCSC Student Business Services",
+                "tags": [
+                    "UCSC bill",
+                    "MyUCCSC"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UCSC Billing Statements: How to locate and read your UCSC bill",
+                    "description": "UCSC students can watch this video to learn how to locate their university billing statements, decipher important information about tuition, fees, charges, and due dates, and figure out how much they are required to pay on their UCSC account by each payment due date."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "7856",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Cx-yOJ9fU9f0Yrhb0rvkPuzkWmM",
+            "id": "7uH5qeUC76g",
+            "snippet": {
+                "publishedAt": "2019-05-01T20:53:34Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "Precedent for Impeachment \u2013 CIA, Iran Contra, Rulers of the Realm: Daniel Sheehan 2019 Class #9",
+                "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7uH5qeUC76g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7uH5qeUC76g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7uH5qeUC76g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7uH5qeUC76g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7uH5qeUC76g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "CIA",
+                    "Robber Barons",
+                    "Iran Contra",
+                    "Watergate",
+                    "Daniel Sheehan",
+                    "Allen Dulles",
+                    "Theodore Shackley",
+                    "Russia Oil",
+                    "UCSC 2019",
+                    "Trajectory of Justice"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Precedent for Impeachment \u2013 CIA, Iran Contra, Rulers of the Realm: Daniel Sheehan 2019 Class #9",
+                    "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "7695",
+                "likeCount": "110",
+                "favoriteCount": "0",
+                "commentCount": "44"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Pl-t5HI4-tFQP7JKEypEqSvTeJI",
+            "id": "Yh_9R5ZgWo0",
+            "snippet": {
+                "publishedAt": "2020-08-06T00:44:32Z",
+                "channelId": "UCoPLfbmdGs6m8gYuxtPeNag",
+                "title": "Beginner's Perspective Hitting Mountain Bike Jumps",
+                "description": "I set out to try to hit every (or most of) the doubles on Mailboxes near the University of Santa Cruz. I thought that seeing a beginner's perspective might be helpful to those who are trying to gain confidence hitting doubles and riding in general.\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nTrack: Good Evening \u2014 Amine Maxwell [Audio Library Release]\nMusic provided by Audio Library Plus\nWatch: https://youtu.be/2BEJUXf_U38\nFree Download / Stream: https://alplus.io/good-evening\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Yh_9R5ZgWo0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Yh_9R5ZgWo0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Yh_9R5ZgWo0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Yh_9R5ZgWo0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Yh_9R5ZgWo0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brendan Good",
+                "tags": [
+                    "salsa",
+                    "rustler",
+                    "sx",
+                    "eagle",
+                    "salsa rustler",
+                    "salsa rustler sx",
+                    "salsa rustler sx eagle",
+                    "cheap full suspension mountain bike",
+                    "cheap full suspension mountainbike",
+                    "best beginner mountain bike",
+                    "best beginner mountainbike",
+                    "bike review",
+                    "mountain bike",
+                    "salsa cycles",
+                    "salsa bikes",
+                    "soquel demonstration forest",
+                    "flow trail",
+                    "How to jump a mountain bike",
+                    "How to jump a mountainbike",
+                    "Doubles",
+                    "Jump doubles",
+                    "beginner"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Beginner's Perspective Hitting Mountain Bike Jumps",
+                    "description": "I set out to try to hit every (or most of) the doubles on Mailboxes near the University of Santa Cruz. I thought that seeing a beginner's perspective might be helpful to those who are trying to gain confidence hitting doubles and riding in general.\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nTrack: Good Evening \u2014 Amine Maxwell [Audio Library Release]\nMusic provided by Audio Library Plus\nWatch: https://youtu.be/2BEJUXf_U38\nFree Download / Stream: https://alplus.io/good-evening\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013"
+                }
+            },
+            "statistics": {
+                "viewCount": "7573",
+                "likeCount": "152",
+                "favoriteCount": "0",
+                "commentCount": "22"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "SPF3svBjeck7pft16H1M7DUrHVM",
+            "id": "6t4fkW9hhhA",
+            "snippet": {
+                "publishedAt": "2019-04-05T20:22:29Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "From Desert Storm to Donald Trump: Daniel Sheehan 2019 Class #2",
+                "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nPBS NewsHour/FRONTLINE special: https://www.pbs.org/video/special-report-full-doc-1553565292/\n\nDonate to the Romero Institute: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6t4fkW9hhhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6t4fkW9hhhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6t4fkW9hhhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6t4fkW9hhhA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6t4fkW9hhhA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "Daniel Sheehan",
+                    "Trajectory of Justice",
+                    "UCSC 2019"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "From Desert Storm to Donald Trump: Daniel Sheehan 2019 Class #2",
+                    "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nPBS NewsHour/FRONTLINE special: https://www.pbs.org/video/special-report-full-doc-1553565292/\n\nDonate to the Romero Institute: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "7406",
+                "likeCount": "127",
+                "favoriteCount": "0",
+                "commentCount": "29"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "9skLX1Rv-jZd2378BwxmHx3clZw",
+            "id": "MDvsBY7v5mc",
+            "snippet": {
+                "publishedAt": "2019-04-26T22:32:00Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "Precedent for Impeachment \u2013 Burying the True Crime: Daniel Sheehan 2019 Class #8",
+                "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MDvsBY7v5mc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MDvsBY7v5mc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MDvsBY7v5mc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MDvsBY7v5mc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MDvsBY7v5mc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "Trump",
+                    "Iran Contra",
+                    "Watergate",
+                    "Impeachment",
+                    "Russia Oil",
+                    "Rex Tillerson",
+                    "UCSC 2019"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Precedent for Impeachment \u2013 Burying the True Crime: Daniel Sheehan 2019 Class #8",
+                    "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "7375",
+                "likeCount": "161",
+                "favoriteCount": "0",
+                "commentCount": "46"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "AEYNM60SZiln-NR2OWhOmTMBR6U",
+            "id": "dF_9YcehCZo",
+            "snippet": {
+                "publishedAt": "2024-09-09T20:01:12Z",
+                "channelId": "UC2kxl-dcUYQQvTCuQtfuChQ",
+                "title": "Saving Voyager 1! - Bruce Waggoner at !!Con 2024",
+                "description": "Saving Voyager 1!\n\nBoth of the 47 year old Voyager spacecraft are currently in interstellar space and returning their most important data set; in-situ measurements of the magnetic field, plasma and dust beyond the Heliopause. In late 2023, Voyager 1 lost all downlink telemetry and the flight team had essentially no visibility into the state of the spacecraft which is over 15 billion miles from the Earth. This talk will detail how the flight team diagnosed the problem, and formulated a recovery plan to patch the Flight Data System flight software.\n\nBruce Waggoner is the Mission Assurance Manager at NASA Jet Propulsion Lab/Caltech. He graduated from the University of Nebraska with a BS in Physics and Astronomy. He has worked at JPL for 39 years supporting dozens of Earth orbiting and deep space missions. He also volunteers as a gymnastics coach and assists teaching girls engineering and science at a local high school.\n\nPresented at !!Con 2024 (pronounced, of course, \"bangbangcon\"!) in Santa Cruz, CA -- https://bangbangcon.com/ \n\n!!Con is a production of the Exclamation Foundation -- https://exclamation.foundation/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dF_9YcehCZo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dF_9YcehCZo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dF_9YcehCZo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dF_9YcehCZo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dF_9YcehCZo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "!!Con",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Saving Voyager 1! - Bruce Waggoner at !!Con 2024",
+                    "description": "Saving Voyager 1!\n\nBoth of the 47 year old Voyager spacecraft are currently in interstellar space and returning their most important data set; in-situ measurements of the magnetic field, plasma and dust beyond the Heliopause. In late 2023, Voyager 1 lost all downlink telemetry and the flight team had essentially no visibility into the state of the spacecraft which is over 15 billion miles from the Earth. This talk will detail how the flight team diagnosed the problem, and formulated a recovery plan to patch the Flight Data System flight software.\n\nBruce Waggoner is the Mission Assurance Manager at NASA Jet Propulsion Lab/Caltech. He graduated from the University of Nebraska with a BS in Physics and Astronomy. He has worked at JPL for 39 years supporting dozens of Earth orbiting and deep space missions. He also volunteers as a gymnastics coach and assists teaching girls engineering and science at a local high school.\n\nPresented at !!Con 2024 (pronounced, of course, \"bangbangcon\"!) in Santa Cruz, CA -- https://bangbangcon.com/ \n\n!!Con is a production of the Exclamation Foundation -- https://exclamation.foundation/"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "7270",
+                "favoriteCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "aRFRXAF2jJXDa3yYYqrnJIr_cL8",
+            "id": "VArEu66Y32I",
+            "snippet": {
+                "publishedAt": "2019-04-19T20:15:16Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "The Mueller Report - Implications for Impeachment: Daniel Sheehan 2019 Class #6",
+                "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate to the Romero Institute: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VArEu66Y32I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VArEu66Y32I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VArEu66Y32I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VArEu66Y32I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VArEu66Y32I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "Daniel Sheehan",
+                    "Mueller Report",
+                    "UCSC 2019",
+                    "Trump Impeach",
+                    "Trajectory of Justice"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The Mueller Report - Implications for Impeachment: Daniel Sheehan 2019 Class #6",
+                    "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate to the Romero Institute: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "7210",
+                "likeCount": "110",
+                "favoriteCount": "0",
+                "commentCount": "76"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0GoKW2JWnDkV2227LU_4A_tIsrs",
+            "id": "suWBM6Hu1M8",
+            "snippet": {
+                "publishedAt": "2019-08-14T07:49:26Z",
+                "channelId": "UCAzchi0n7zyF8y5H7Gj5DkQ",
+                "title": "\u3010\u5fd8\u7fa1\uff5c\u9648\u60c5\u4ee4Untamed\u3011\u5982\u679c\u5f53\u65f6\uff5c\u8bb8\u5d69 \u4e0e\u4f60\u82e5\u53ea\u5982\u521d\u89c1\uff0c\u4f55\u987b\u611f\u4f24\u79bb\u522b",
+                "description": "BGM\uff1a\u8bb8\u5d69\u300a\u5982\u679c\u5f53\u65f6\u300b",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/suWBM6Hu1M8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/suWBM6Hu1M8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/suWBM6Hu1M8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/suWBM6Hu1M8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/suWBM6Hu1M8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jamie Li",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\u3010\u5fd8\u7fa1\uff5c\u9648\u60c5\u4ee4Untamed\u3011\u5982\u679c\u5f53\u65f6\uff5c\u8bb8\u5d69 \u4e0e\u4f60\u82e5\u53ea\u5982\u521d\u89c1\uff0c\u4f55\u987b\u611f\u4f24\u79bb\u522b",
+                    "description": "BGM\uff1a\u8bb8\u5d69\u300a\u5982\u679c\u5f53\u65f6\u300b"
+                }
+            },
+            "statistics": {
+                "viewCount": "7167",
+                "likeCount": "78",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "lmkM2SrYUMk8I33ppxy6p-2F6x4",
+            "id": "NSl3WqIdFhQ",
+            "snippet": {
+                "publishedAt": "2023-02-19T21:17:25Z",
+                "channelId": "UChAZHvVXLMDKYXIuU7mnV8A",
+                "title": "Your financial account in MyUCSC - Instructions for UCSC Students",
+                "description": "UCSC students will learn how to navigate their financial account and located other important financial information in MyUCSC, UCSC's student information portal.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NSl3WqIdFhQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NSl3WqIdFhQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NSl3WqIdFhQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NSl3WqIdFhQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "UCSC Student Business Services",
+                "tags": [
+                    "UCSC"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Your financial account in MyUCSC - Instructions for UCSC Students",
+                    "description": "UCSC students will learn how to navigate their financial account and located other important financial information in MyUCSC, UCSC's student information portal."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "6464",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "MMXukNYSkUkh8EXY5YjZ8Iy1RYQ",
+            "id": "0c2-2vyrrqw",
+            "snippet": {
+                "publishedAt": "2022-10-16T11:13:45Z",
+                "channelId": "UC8i0b_LuHng7oO2unfzMhNA",
+                "title": "a realistic day in the life at UC Santa Cruz",
+                "description": "As a college student, I found myself forming good habits + good routine but at the same time my days began to feel repetitive. I needed to mix things up so.. I decided to make an unplanned trip to UC Santa Cruz.... we put our destination in our GPS and began driving. \n\n\u2b07\ufe0fKeep up to date with me\u2b07\ufe0f\nInstagram: https://www.instagram.com/_unplannedphotography_/\n\nConsider Subscribing ??",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0c2-2vyrrqw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0c2-2vyrrqw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0c2-2vyrrqw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0c2-2vyrrqw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0c2-2vyrrqw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ellis Tom",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "a realistic day in the life at UC Santa Cruz",
+                    "description": "As a college student, I found myself forming good habits + good routine but at the same time my days began to feel repetitive. I needed to mix things up so.. I decided to make an unplanned trip to UC Santa Cruz.... we put our destination in our GPS and began driving. \n\n\u2b07\ufe0fKeep up to date with me\u2b07\ufe0f\nInstagram: https://www.instagram.com/_unplannedphotography_/\n\nConsider Subscribing ??"
+                }
+            },
+            "statistics": {
+                "viewCount": "6321",
+                "likeCount": "78",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0HtU_rOfKeXtw428N9TWEmwaPMM",
+            "id": "iX3iFAG2mJA",
+            "snippet": {
+                "publishedAt": "2023-02-23T03:12:58Z",
+                "channelId": "UC8C7MKvoYjyifDh602ztSYw",
+                "title": "How mountain bikers get CHICKS #mtb #shorts",
+                "description": "TJ shows off on his cool pipe trick on his sick Ibis Ripmo, as the ladies admire his skills.\n\n#mountainbike #biking #mountainbiking #mtb #santacruz #california #funny",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iX3iFAG2mJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iX3iFAG2mJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iX3iFAG2mJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iX3iFAG2mJA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iX3iFAG2mJA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Look Pro Go Slow",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How mountain bikers get CHICKS #mtb #shorts",
+                    "description": "TJ shows off on his cool pipe trick on his sick Ibis Ripmo, as the ladies admire his skills.\n\n#mountainbike #biking #mountainbiking #mtb #santacruz #california #funny"
+                }
+            },
+            "statistics": {
+                "viewCount": "6111",
+                "likeCount": "79",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rGL2XKwcOZbqZuBxuSBKZdbEDhA",
+            "id": "s7O2Z71Z6so",
+            "snippet": {
+                "publishedAt": "2023-02-21T19:41:39Z",
+                "channelId": "UChAZHvVXLMDKYXIuU7mnV8A",
+                "title": "UCSC eBill/ePay - instructions for students",
+                "description": "UCSC students can watch this video to learn how to use the UCSC eBill/ePay system to send a payer invitation, set up a payment account, and pay their university bills.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s7O2Z71Z6so/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s7O2Z71Z6so/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s7O2Z71Z6so/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s7O2Z71Z6so/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "UCSC Student Business Services",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UCSC eBill/ePay - instructions for students",
+                    "description": "UCSC students can watch this video to learn how to use the UCSC eBill/ePay system to send a payer invitation, set up a payment account, and pay their university bills."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "5934",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Mwu2Fjz_eN2F6PjOnFb7SJn9fkI",
+            "id": "e24CdDRBUH0",
+            "snippet": {
+                "publishedAt": "2022-03-05T09:33:36Z",
+                "channelId": "UClVrY78GNFcT66BzAJaNm0g",
+                "title": "Exploring around The Lost Boys filming location - Grandpa's House Santa Cruz, CA Abandoned Places \ubaa8\ud5d8",
+                "description": "The exterior of this Historic building, the Pogonip Clubhouse, was used in the filming of The Lost Boys. It is located in Santa Cruz, California. The interior was actually a set at Warner Brothers Studios.\n\nJoin me on this journey... Not all who Wander are Lost!\n\nFollow me on Instagram: @christinexplrs\n\nTV Drama Version 2 by Audionautix is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/\n\nArtist: http://audionautix.com/\n\n#SantaCruz #Pogonip #California #TheLostBoys #GrandpasHouse #Explore #Adventure #Hiking #\ub4f1\uc0b0\ub85c #\ubaa8\ud5d8 #exploring #abandoned",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e24CdDRBUH0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e24CdDRBUH0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e24CdDRBUH0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/e24CdDRBUH0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/e24CdDRBUH0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Exploring with Christine",
+                "tags": [
+                    "SantaCruz",
+                    "Grandpa's House",
+                    "Explore",
+                    "Adventure",
+                    "Hiking",
+                    "The Lost Boys",
+                    "Pogonip",
+                    "California",
+                    "\ub4f1\uc0b0\ub85c",
+                    "\ubaa8\ud5d8",
+                    "exploring",
+                    "abandoned",
+                    "Immortal",
+                    "From the Top"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Exploring around The Lost Boys filming location - Grandpa's House Santa Cruz, CA Abandoned Places \ubaa8\ud5d8",
+                    "description": "The exterior of this Historic building, the Pogonip Clubhouse, was used in the filming of The Lost Boys. It is located in Santa Cruz, California. The interior was actually a set at Warner Brothers Studios.\n\nJoin me on this journey... Not all who Wander are Lost!\n\nFollow me on Instagram: @christinexplrs\n\nTV Drama Version 2 by Audionautix is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/\n\nArtist: http://audionautix.com/\n\n#SantaCruz #Pogonip #California #TheLostBoys #GrandpasHouse #Explore #Adventure #Hiking #\ub4f1\uc0b0\ub85c #\ubaa8\ud5d8 #exploring #abandoned"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "5902",
+                "likeCount": "102",
+                "favoriteCount": "0",
+                "commentCount": "46"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fd3ij7OVBrV-lbMGv7sLG-dAcXw",
+            "id": "2IdJz5y4oAk",
+            "snippet": {
+                "publishedAt": "2019-05-23T00:38:53Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "Oil=Money=Power: Daniel Sheehan 2019 Class #14",
+                "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2IdJz5y4oAk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2IdJz5y4oAk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2IdJz5y4oAk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2IdJz5y4oAk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2IdJz5y4oAk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "Daniel Sheehan",
+                    "US foreign Policy",
+                    "Progressive Politics",
+                    "Climate Change",
+                    "Manifest Destiny"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Oil=Money=Power: Daniel Sheehan 2019 Class #14",
+                    "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "5728",
+                "likeCount": "97",
+                "favoriteCount": "0",
+                "commentCount": "20"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "QU-LmQghwpx0NPdFoBS8fz3PGpk",
+            "id": "QP6EG2f0QSo",
+            "snippet": {
+                "publishedAt": "2020-05-29T07:28:20Z",
+                "channelId": "UCQW8PcgCwKPN1wuplBJFN3Q",
+                "title": "EVERYTHING YOU NEED TO KNOW ABOUT UCSC!",
+                "description": "EVERYTHING YOU NEED TO KNOW ABOUT UCSC | 10 colleges, housing, transportation and more | FAQs ABOUT UCSC\n\nIn this video, I will tell EVERYTHING YOU NEED TO KNOW ABOUT UCSC and answer your most burning questions about UCSC! I will be talking about the 10 colleges, housing, transportation, campus culture and more! Please let me know if you would like to see more videos like this! Don't forget to like, comment, and subscribe! Please watch and enjoy!\n\nTimestamps:\n0:00 WELCOME\n0:11 THE 10 COLLEGES\n3:02 TRANSPORTATION\n3:53 HOUSING\n5:04 CAMPUS CULTURE\n5:57 MAKING FRIENDS\n6:44 CTA\n\nDISCLAIMER: Most of the information from this video are based off of my personal experience and research. \nFor more information about UCSC, visit www.ucsc.edu. \n\n- Sign up for Prime Student 6-month Trial and get \nUnlimited FREE Two-Day Shipping (with no minimum order size)!\nExclusive deals and promotions for college students!\n\u2193SIGN UP DOWN HERE!\u2193\nhttps://amzn.to/4aEBtIq\n\n\ud835\udd44\ud835\udd66\ud835\udd64\ud835\udd5a\ud835\udd54:\n Music by frumhere, kevatta - summer nights - \nhttps://thmatc.co/?l=622139B4\n\ud835\udd3d\ud835\udd38\u211a:\nAge: 19\nUniversity: UC Santa Cruz\nMajor: Human Biology\n\n\ud835\udd4a\ud835\udd60\ud835\udd54\ud835\udd5a\ud835\udd52\ud835\udd5d\ud835\udd64:\n\u2698 Instagram: @handmade_vaish\n\u2698 Twitter: @handmade_vaish\n\u2698 Facebook: @handmadebyvaishna\n\n\ud835\udd3d\ud835\udd5a\ud835\udd5d\ud835\udd5e\ud835\udd5a\ud835\udd5f\ud835\udd58 \ud835\udd56\ud835\udd62\ud835\udd66\ud835\udd5a\ud835\udd61\ud835\udd5e\ud835\udd56\ud835\udd5f\ud835\udd65:\nCamera: iPhone X\nOverhead Tripod: https://amzn.to/36cenLo\n\nKeyword dump:\nucsc,information about ucsc,ucsc info,what to know about ucsc,ucsc college information,ucsc college faq,need,faq about ucsc,college info about ucsc,UCSCFAQs,ucsc vlog,college advice,uc santa cruz,santa cruz,day in the life at uc santa cruz,uc santa cruz dorms,uc santa cruz housing,university of california santa cruz,day in my life at university of california santa cruz,santa cruz beach boardwalk,santa cruz boardwalk frolic,why i love going to college at ucsc,what to expect ucsc, UCSC,UCSCFAQs,college info about ucsc,day in the life at uc santa cruz,faq about ucsc,information about ucsc,santa cruz beach boardwalk,santa cruz boardwalk frolic,uc santa cruz,uc santa cruz housing,ucsc,ucsc college faq,ucsc college information,ucsc info,university of california santa cruz,what to expect ucsc,what to know about ucsc,why i love going to college at ucsc,ucsc vlog,ucsc colleges,santa cruz,uc santa cruz dorms",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QP6EG2f0QSo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QP6EG2f0QSo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QP6EG2f0QSo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QP6EG2f0QSo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Handmade by Vaishna",
+                "tags": [
+                    "UCSC",
+                    "college info about ucsc",
+                    "faq about ucsc",
+                    "information about ucsc",
+                    "santa cruz beach boardwalk",
+                    "santa cruz boardwalk frolic",
+                    "uc santa cruz",
+                    "uc santa cruz housing",
+                    "ucsc",
+                    "ucsc college faq",
+                    "ucsc college information",
+                    "ucsc info",
+                    "what to expect ucsc",
+                    "what to know about ucsc",
+                    "why i love going to college at ucsc",
+                    "ucsc colleges",
+                    "uc santa cruz dorms",
+                    "ucsc housing",
+                    "Ucsc",
+                    "ucsc college 10",
+                    "ucsc college 9",
+                    "uc santa cruz dorm tour",
+                    "ucsc vlog",
+                    "uc santa cruz pros and cons"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "EVERYTHING YOU NEED TO KNOW ABOUT UCSC!",
+                    "description": "EVERYTHING YOU NEED TO KNOW ABOUT UCSC | 10 colleges, housing, transportation and more | FAQs ABOUT UCSC\n\nIn this video, I will tell EVERYTHING YOU NEED TO KNOW ABOUT UCSC and answer your most burning questions about UCSC! I will be talking about the 10 colleges, housing, transportation, campus culture and more! Please let me know if you would like to see more videos like this! Don't forget to like, comment, and subscribe! Please watch and enjoy!\n\nTimestamps:\n0:00 WELCOME\n0:11 THE 10 COLLEGES\n3:02 TRANSPORTATION\n3:53 HOUSING\n5:04 CAMPUS CULTURE\n5:57 MAKING FRIENDS\n6:44 CTA\n\nDISCLAIMER: Most of the information from this video are based off of my personal experience and research. \nFor more information about UCSC, visit www.ucsc.edu. \n\n- Sign up for Prime Student 6-month Trial and get \nUnlimited FREE Two-Day Shipping (with no minimum order size)!\nExclusive deals and promotions for college students!\n\u2193SIGN UP DOWN HERE!\u2193\nhttps://amzn.to/4aEBtIq\n\n\ud835\udd44\ud835\udd66\ud835\udd64\ud835\udd5a\ud835\udd54:\n Music by frumhere, kevatta - summer nights - \nhttps://thmatc.co/?l=622139B4\n\ud835\udd3d\ud835\udd38\u211a:\nAge: 19\nUniversity: UC Santa Cruz\nMajor: Human Biology\n\n\ud835\udd4a\ud835\udd60\ud835\udd54\ud835\udd5a\ud835\udd52\ud835\udd5d\ud835\udd64:\n\u2698 Instagram: @handmade_vaish\n\u2698 Twitter: @handmade_vaish\n\u2698 Facebook: @handmadebyvaishna\n\n\ud835\udd3d\ud835\udd5a\ud835\udd5d\ud835\udd5e\ud835\udd5a\ud835\udd5f\ud835\udd58 \ud835\udd56\ud835\udd62\ud835\udd66\ud835\udd5a\ud835\udd61\ud835\udd5e\ud835\udd56\ud835\udd5f\ud835\udd65:\nCamera: iPhone X\nOverhead Tripod: https://amzn.to/36cenLo\n\nKeyword dump:\nucsc,information about ucsc,ucsc info,what to know about ucsc,ucsc college information,ucsc college faq,need,faq about ucsc,college info about ucsc,UCSCFAQs,ucsc vlog,college advice,uc santa cruz,santa cruz,day in the life at uc santa cruz,uc santa cruz dorms,uc santa cruz housing,university of california santa cruz,day in my life at university of california santa cruz,santa cruz beach boardwalk,santa cruz boardwalk frolic,why i love going to college at ucsc,what to expect ucsc, UCSC,UCSCFAQs,college info about ucsc,day in the life at uc santa cruz,faq about ucsc,information about ucsc,santa cruz beach boardwalk,santa cruz boardwalk frolic,uc santa cruz,uc santa cruz housing,ucsc,ucsc college faq,ucsc college information,ucsc info,university of california santa cruz,what to expect ucsc,what to know about ucsc,why i love going to college at ucsc,ucsc vlog,ucsc colleges,santa cruz,uc santa cruz dorms"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "5664",
+                "likeCount": "116",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5ImTwE0Uf47A1ESgfIautXiNVG0",
+            "id": "IVc0fVoHo90",
+            "snippet": {
+                "publishedAt": "2022-12-24T02:56:59Z",
+                "channelId": "UCS7k8BM1ncGZD3e9qcSfRKw",
+                "title": "NOOOBBBSSS ON STEEEEP!!!! #enduro #biking #ebike #ebikestyle #fyb #fyp #iamspecialized #mtb # #bike",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IVc0fVoHo90/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IVc0fVoHo90/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IVc0fVoHo90/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IVc0fVoHo90/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IVc0fVoHo90/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "D nut R",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "NOOOBBBSSS ON STEEEEP!!!! #enduro #biking #ebike #ebikestyle #fyb #fyp #iamspecialized #mtb # #bike",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "5606",
+                "likeCount": "89",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zj0DtEfqef8bFfeiezj7ay8SeQ4",
+            "id": "69Ct2bi1HcU",
+            "snippet": {
+                "publishedAt": "2019-05-29T22:53:54Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "How did we get here? (Oil=Money=Power): Daniel Sheehan 2019 Class #15",
+                "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/69Ct2bi1HcU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/69Ct2bi1HcU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/69Ct2bi1HcU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/69Ct2bi1HcU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/69Ct2bi1HcU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "Daniel Sheehan",
+                    "Trajectory of Justice",
+                    "UCSC 2019"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How did we get here? (Oil=Money=Power): Daniel Sheehan 2019 Class #15",
+                    "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "5421",
+                "likeCount": "101",
+                "favoriteCount": "0",
+                "commentCount": "24"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Goac-mmbvNVu-5-WcvJ8GQspFKg",
+            "id": "-Xv2jPYVKJc",
+            "snippet": {
+                "publishedAt": "2022-06-12T00:05:34Z",
+                "channelId": "UCf7S35c-dxL-Bn-Ax9IpAgA",
+                "title": "Make a deal with god (Running up that hill) | Gacha Life Meme | Tik tok: your_.3mo_ | Go follow me!",
+                "description": "Go follow me on tik tok!\n\n(You can copy it ans paste) \n\nyour_.3mo_\n\nI try to post every week but i had gotten my phone taken from me so i havnt but i will! \ud83d\ude0d\ud83d\ude0d",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-Xv2jPYVKJc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-Xv2jPYVKJc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-Xv2jPYVKJc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-Xv2jPYVKJc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "TR!XI3__",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Make a deal with god (Running up that hill) | Gacha Life Meme | Tik tok: your_.3mo_ | Go follow me!",
+                    "description": "Go follow me on tik tok!\n\n(You can copy it ans paste) \n\nyour_.3mo_\n\nI try to post every week but i had gotten my phone taken from me so i havnt but i will! \ud83d\ude0d\ud83d\ude0d"
+                }
+            },
+            "statistics": {
+                "viewCount": "5303",
+                "likeCount": "113",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "D9fiVQsddH2Sf_7vc34tveSDK-0",
+            "id": "luIKE5hrYYI",
+            "snippet": {
+                "publishedAt": "2023-02-21T19:48:02Z",
+                "channelId": "UChAZHvVXLMDKYXIuU7mnV8A",
+                "title": "UCSC: Get refunds fast with direct deposit - Instructions for students",
+                "description": "UCSC students can watch this video to learn how to set up direct deposit so they can get financial aid and other refunds from the University as quickly as possible.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/luIKE5hrYYI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/luIKE5hrYYI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/luIKE5hrYYI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/luIKE5hrYYI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "UCSC Student Business Services",
+                "tags": [
+                    "UCSC"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UCSC: Get refunds fast with direct deposit - Instructions for students",
+                    "description": "UCSC students can watch this video to learn how to set up direct deposit so they can get financial aid and other refunds from the University as quickly as possible."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "4507",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "bZrY6fG4wNy2DO-OJCoChAidubc",
+            "id": "gqUXb-QIA4k",
+            "snippet": {
+                "publishedAt": "2022-08-17T05:05:22Z",
+                "channelId": "UCMcv143fzWCt6kFM9pWm-IQ",
+                "title": "STS9 @ The Quarry UCSC 2022-08-12 Santa Cruz, CA Multi-Cam",
+                "description": "1 - 00:00 - Oh, Little Brain\n2 - 07:54 - Gobnugget\n3 - 14:49 - Monkey Music\n4 - 27:48 - Like I Do\n5 - 41:44 - Menacer\n6 - 48:35 - Somesing\n7 - 59:55 - Walk to the Light\n\nSet 2\n8 - 1:10:28 - Big Basin\n9 - 1:20:37 - Wilder\n10 - 1:28:03 - Kamuy\n11 - 1:40:33 - Common Objects Strangely Placed\n12 - 1:43:00 - Vibyl\n13 - 1:50:56 - Walk the Sky\n14 - 2:02:24 - Arrowhead\n15 - 2:10:02 - World Go Round\n\nEncore\n16 - 2:20:48 - Golden Gate\n\nThe first of two nights under the full moon at the newly renovated Quarry Amphitheatre on the campus of University of California at Santa Cruz, STS9 performs in their hometown for the first time since 2008.\n\nhttps://www.goodtimes.sc/sound-tribe-sector-9-might-be-the-most-successful-band-in-santa-cruz/\n\n#sts9 #santacruz #thequarry",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gqUXb-QIA4k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gqUXb-QIA4k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gqUXb-QIA4k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gqUXb-QIA4k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gqUXb-QIA4k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Must Have Media",
+                "tags": [
+                    "Must Have Media",
+                    "Santa Cruz",
+                    "California",
+                    "live music",
+                    "sts9",
+                    "sound",
+                    "tribe",
+                    "sector",
+                    "nine",
+                    "ucsc",
+                    "the quarry",
+                    "full moon",
+                    "jam",
+                    "electronic",
+                    "dub",
+                    "dance",
+                    "party"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "STS9 @ The Quarry UCSC 2022-08-12 Santa Cruz, CA Multi-Cam",
+                    "description": "1 - 00:00 - Oh, Little Brain\n2 - 07:54 - Gobnugget\n3 - 14:49 - Monkey Music\n4 - 27:48 - Like I Do\n5 - 41:44 - Menacer\n6 - 48:35 - Somesing\n7 - 59:55 - Walk to the Light\n\nSet 2\n8 - 1:10:28 - Big Basin\n9 - 1:20:37 - Wilder\n10 - 1:28:03 - Kamuy\n11 - 1:40:33 - Common Objects Strangely Placed\n12 - 1:43:00 - Vibyl\n13 - 1:50:56 - Walk the Sky\n14 - 2:02:24 - Arrowhead\n15 - 2:10:02 - World Go Round\n\nEncore\n16 - 2:20:48 - Golden Gate\n\nThe first of two nights under the full moon at the newly renovated Quarry Amphitheatre on the campus of University of California at Santa Cruz, STS9 performs in their hometown for the first time since 2008.\n\nhttps://www.goodtimes.sc/sound-tribe-sector-9-might-be-the-most-successful-band-in-santa-cruz/\n\n#sts9 #santacruz #thequarry"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "4500",
+                "likeCount": "114",
+                "favoriteCount": "0",
+                "commentCount": "16"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "BZBUKSeTkOUA7d6Pfvlob9-RoFQ",
+            "id": "0v2HN9q_Gnc",
+            "snippet": {
+                "publishedAt": "2019-10-30T19:12:41Z",
+                "channelId": "UCQW8PcgCwKPN1wuplBJFN3Q",
+                "title": "UCSC MOVE-IN VLOG! (FRESHMAN YEAR)",
+                "description": "COLLEGE MOVE-IN VLOG! (UCSC freshman year)\n\nWelcome to my  UCSC MOVE-IN VLOG for freshman year! Here are some highlights and experiences from my first few weeks of freshman year, such as move-in day, setting up my dorm, Cornucopia, Boardwalk Frolic, and much more! Let me know if you would like to see more videos like this! Please watch and enjoy :)\n\nLiked this video? Check out the rest of my college content here! \nhttps://www.youtube.com/playlist?list=PL3Hnard2kTx9t0QUaiMTzHpemRfdp-DzP\n\nWant to see my future grad school content? I'll be starting a new vlog channel for my physical therapy journey, so be sure to SUBSCRIBE here!\nwww.youtube.com/@vaishnathept\n\nTimestamps:\n0:00 MOVING IN!\n1:13 DORM DESK TOUR\n1:51 WELCOME WEEK\n2:04 BOARDWALK FROLIC\n2:34 OPERS CORNUCOPIA\n3:00 PREPPING FOR CLASS\n3:22 FIRST DAY OF CLASSES\n3:55 ISA BONFIRE\n4:08 PG&E BLACKOUTS & ICECREAM\n4:32 THANKS FOR WATCHING!\n\n\n-Sign up for Prime Student 6-month Trial and get special benefits as a college student\nUnlimited FREE Two-Day Shipping (with no minimum order size)!\nExclusive deals and promotions for college students!\n\u2193SIGN UP DOWN HERE!\u2193\nhttps://amzn.to/2PpcTHE\n\n\ud835\udd4a\ud835\udd60\ud835\udd54\ud835\udd5a\ud835\udd52\ud835\udd5d\ud835\udd64:\n\u2698 Instagram: @handmade_vaish\n\u2698 Twitter: @handmade_vaish\n\u2698 Facebook: @handmadebyvaishna\n\n\ud835\udd44\ud835\udd66\ud835\udd64\ud835\udd5a\ud835\udd54:\nJoakim Kraud -  Canals\nhttps://youtu.be/jxpEdiB6U88\n\n-\ud835\udd3d\ud835\udd5a\ud835\udd5d\ud835\udd5e\ud835\udd5a\ud835\udd5f\ud835\udd58 \ud835\udd56\ud835\udd62\ud835\udd66\ud835\udd5a\ud835\udd61\ud835\udd5e\ud835\udd56\ud835\udd5f\ud835\udd65:\nCamera: iPhone X\n\n\nKeyword Dump:\nUCSC,accepted,college,college freshman,college life,college tour,day,day in my life,decor,dorm,dorm tour,freshman,freshmen,home,in,moving,uc santa cruz,ucsc,ucsc freshman,ucsc freshman move in,ucsc freshman move in day,ucsc freshmen,ucsc move in,ucsc move in day,ucsc move in vlog 2019,ucsc move-in,ucsc move-in vlog 2019,ucsc vlog,university of california santa cruz,week in my life,uc santa cruz vlog,uc santa cruz move in day,ucsc day in the life,college move in day freshman",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0v2HN9q_Gnc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0v2HN9q_Gnc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0v2HN9q_Gnc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0v2HN9q_Gnc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Handmade by Vaishna",
+                "tags": [
+                    "UCSC",
+                    "ucsc freshman",
+                    "ucsc freshman move in",
+                    "ucsc freshman move in day",
+                    "ucsc freshmen",
+                    "ucsc move in",
+                    "ucsc move in day",
+                    "ucsc move in vlog 2019",
+                    "ucsc move-in",
+                    "ucsc move-in vlog 2019",
+                    "ucsc vlog",
+                    "university of california santa cruz",
+                    "week in my life",
+                    "uc santa cruz vlog",
+                    "uc santa cruz move in day",
+                    "ucsc day in the life",
+                    "uc santa cruz dorm tour",
+                    "uc santa cruz",
+                    "ucsc dorm",
+                    "ucsc tour",
+                    "Ucsc",
+                    "ucsc colleges",
+                    "ucsc dorms",
+                    "uc santa cruz campus tour",
+                    "ucsc",
+                    "ucsc campus",
+                    "move in vlog ucsc"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UCSC MOVE-IN VLOG! (FRESHMAN YEAR)",
+                    "description": "COLLEGE MOVE-IN VLOG! (UCSC freshman year)\n\nWelcome to my  UCSC MOVE-IN VLOG for freshman year! Here are some highlights and experiences from my first few weeks of freshman year, such as move-in day, setting up my dorm, Cornucopia, Boardwalk Frolic, and much more! Let me know if you would like to see more videos like this! Please watch and enjoy :)\n\nLiked this video? Check out the rest of my college content here! \nhttps://www.youtube.com/playlist?list=PL3Hnard2kTx9t0QUaiMTzHpemRfdp-DzP\n\nWant to see my future grad school content? I'll be starting a new vlog channel for my physical therapy journey, so be sure to SUBSCRIBE here!\nwww.youtube.com/@vaishnathept\n\nTimestamps:\n0:00 MOVING IN!\n1:13 DORM DESK TOUR\n1:51 WELCOME WEEK\n2:04 BOARDWALK FROLIC\n2:34 OPERS CORNUCOPIA\n3:00 PREPPING FOR CLASS\n3:22 FIRST DAY OF CLASSES\n3:55 ISA BONFIRE\n4:08 PG&E BLACKOUTS & ICECREAM\n4:32 THANKS FOR WATCHING!\n\n\n-Sign up for Prime Student 6-month Trial and get special benefits as a college student\nUnlimited FREE Two-Day Shipping (with no minimum order size)!\nExclusive deals and promotions for college students!\n\u2193SIGN UP DOWN HERE!\u2193\nhttps://amzn.to/2PpcTHE\n\n\ud835\udd4a\ud835\udd60\ud835\udd54\ud835\udd5a\ud835\udd52\ud835\udd5d\ud835\udd64:\n\u2698 Instagram: @handmade_vaish\n\u2698 Twitter: @handmade_vaish\n\u2698 Facebook: @handmadebyvaishna\n\n\ud835\udd44\ud835\udd66\ud835\udd64\ud835\udd5a\ud835\udd54:\nJoakim Kraud -  Canals\nhttps://youtu.be/jxpEdiB6U88\n\n-\ud835\udd3d\ud835\udd5a\ud835\udd5d\ud835\udd5e\ud835\udd5a\ud835\udd5f\ud835\udd58 \ud835\udd56\ud835\udd62\ud835\udd66\ud835\udd5a\ud835\udd61\ud835\udd5e\ud835\udd56\ud835\udd5f\ud835\udd65:\nCamera: iPhone X\n\n\nKeyword Dump:\nUCSC,accepted,college,college freshman,college life,college tour,day,day in my life,decor,dorm,dorm tour,freshman,freshmen,home,in,moving,uc santa cruz,ucsc,ucsc freshman,ucsc freshman move in,ucsc freshman move in day,ucsc freshmen,ucsc move in,ucsc move in day,ucsc move in vlog 2019,ucsc move-in,ucsc move-in vlog 2019,ucsc vlog,university of california santa cruz,week in my life,uc santa cruz vlog,uc santa cruz move in day,ucsc day in the life,college move in day freshman"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "4451",
+                "likeCount": "82",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jF5aDVU8qwMh4CdBaMaVfSTB18g",
+            "id": "PKHV9hZl3bc",
+            "snippet": {
+                "publishedAt": "2020-08-25T21:38:16Z",
+                "channelId": "UCrjUV2z9scFKkH827r6eFGw",
+                "title": "2020 Survey of Damage to the \"Sweetness\" MTB Trail",
+                "description": "As the 2020 CZU Lightning Complex fires ravage California, a fire line was cut in the Santa Cruz UCSC upper campus area. Rumor has it that it is along Sweetness. This is a little exploration to see how accurate that rumor is.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PKHV9hZl3bc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PKHV9hZl3bc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PKHV9hZl3bc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PKHV9hZl3bc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Peter Chester",
+                "tags": [
+                    "mtb",
+                    "santacruz"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "2020 Survey of Damage to the \"Sweetness\" MTB Trail",
+                    "description": "As the 2020 CZU Lightning Complex fires ravage California, a fire line was cut in the Santa Cruz UCSC upper campus area. Rumor has it that it is along Sweetness. This is a little exploration to see how accurate that rumor is."
+                }
+            },
+            "statistics": {
+                "viewCount": "4279",
+                "likeCount": "63",
+                "favoriteCount": "0",
+                "commentCount": "20"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "CLpNxnjlqKUY0ErP1hdZN4UNSTk",
+            "id": "poTHfQoR4I8",
+            "snippet": {
+                "publishedAt": "2019-10-11T03:29:21Z",
+                "channelId": "UCurSEEDyvOW2O2RNMLLbqbw",
+                "title": "UC Santa Cruz Move in and Welcome Week Vlog || Fall 2019",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/poTHfQoR4I8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/poTHfQoR4I8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/poTHfQoR4I8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/poTHfQoR4I8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/poTHfQoR4I8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ira Shirdhankar",
+                "tags": [
+                    "#college #freshmenyear #ucsc #movein #dorm #welcomeweek"
+                ],
+                "categoryId": "19",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UC Santa Cruz Move in and Welcome Week Vlog || Fall 2019",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "4264",
+                "likeCount": "63",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pOZe2fPTS7C003VX9pVFHhNMidQ",
+            "id": "ZqYNUncnuEI",
+            "snippet": {
+                "publishedAt": "2023-08-31T05:22:57Z",
+                "channelId": "UCbCaIBwGHwYsUJe0HSyK4Uw",
+                "title": "Skating in the dorm hallways UC Santa Cruz | Cowell College skateboard grind attempt UCSC skate \ud83d\ude02\ud83d\udef9",
+                "description": "Circa September 25, 2016",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZqYNUncnuEI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZqYNUncnuEI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZqYNUncnuEI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZqYNUncnuEI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZqYNUncnuEI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "visualizerizz \u2022 rizzystaydizzy BTS Rizal Riz Aliga",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Skating in the dorm hallways UC Santa Cruz | Cowell College skateboard grind attempt UCSC skate \ud83d\ude02\ud83d\udef9",
+                    "description": "Circa September 25, 2016"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "4042",
+                "likeCount": "60",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "SqOpvo2lwd14jXnIbzrK06wIqQY",
+            "id": "FEj2n_n7Gxc",
+            "snippet": {
+                "publishedAt": "2019-05-13T20:41:30Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "Investigating the Investigation: Daniel Sheehan 2019 Class #11",
+                "description": "AUDIO IMPROVES AT 47:20. Our little Zoom H4 Audio recorder decided to freeze up and erase the first half of class... so had to use the room mic.\n\nOnline syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FEj2n_n7Gxc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FEj2n_n7Gxc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FEj2n_n7Gxc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FEj2n_n7Gxc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FEj2n_n7Gxc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "Mueller Report",
+                    "Daniel Sheehan",
+                    "UCSC 2019",
+                    "Impeachment",
+                    "Russia",
+                    "Trump",
+                    "William Barr",
+                    "Obstruction",
+                    "Steel Dossier"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Investigating the Investigation: Daniel Sheehan 2019 Class #11",
+                    "description": "AUDIO IMPROVES AT 47:20. Our little Zoom H4 Audio recorder decided to freeze up and erase the first half of class... so had to use the room mic.\n\nOnline syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "3978",
+                "likeCount": "51",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-Mb64YTWjfptDaoWb8GG9QJlyeY",
+            "id": "_0Tu-anoqyA",
+            "snippet": {
+                "publishedAt": "2023-02-21T19:38:00Z",
+                "channelId": "UChAZHvVXLMDKYXIuU7mnV8A",
+                "title": "UCSC  Students: Where to get help with money issues and financial questions",
+                "description": "UCSC students can watch this video to learn about on-campus programs that can help them with everything from understanding their UCSC bills to getting help with food, housing, and financial aid.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_0Tu-anoqyA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_0Tu-anoqyA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_0Tu-anoqyA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_0Tu-anoqyA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "UCSC Student Business Services",
+                "tags": [
+                    "UCSC",
+                    "student",
+                    "money",
+                    "financial"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UCSC  Students: Where to get help with money issues and financial questions",
+                    "description": "UCSC students can watch this video to learn about on-campus programs that can help them with everything from understanding their UCSC bills to getting help with food, housing, and financial aid."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "3860",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-ndRPD1jdCWE6TZ8geX9FBKgYyo",
+            "id": "RHlCYn5egRA",
+            "snippet": {
+                "publishedAt": "2019-04-10T20:03:49Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "Climate Change Facts with Dr. Jon Conway: Daniel Sheehan 2019 Class #3",
+                "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nLink to Jon's Powerpoint Presentation:\nhttps://docs.google.com/presentation/d/1Rn97wIp1jyQglhAo_P2271pGw6xy0avxbVT0J49oHyM/edit?usp=sharing\n\nDonate to the Romero Institute: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RHlCYn5egRA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RHlCYn5egRA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RHlCYn5egRA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RHlCYn5egRA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RHlCYn5egRA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "Climate Change",
+                    "Romero Institute",
+                    "Daniel Sheehan",
+                    "UCSC 2019",
+                    "Dr. Jon Conway"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Climate Change Facts with Dr. Jon Conway: Daniel Sheehan 2019 Class #3",
+                    "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nLink to Jon's Powerpoint Presentation:\nhttps://docs.google.com/presentation/d/1Rn97wIp1jyQglhAo_P2271pGw6xy0avxbVT0J49oHyM/edit?usp=sharing\n\nDonate to the Romero Institute: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "3837",
+                "likeCount": "55",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xjDAV-WeRX9pveMQp1JO87vESXE",
+            "id": "pmPla41UQhc",
+            "snippet": {
+                "publishedAt": "2019-05-16T15:20:40Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "Dangers, Opportunities, and Origins of a Constitutional Crisis: Daniel Sheehan 2019 Class #12",
+                "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pmPla41UQhc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pmPla41UQhc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pmPla41UQhc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pmPla41UQhc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pmPla41UQhc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "constitutional crisis",
+                    "inpeachment",
+                    "daniel sheehan",
+                    "trump",
+                    "UCSC 2019",
+                    "mueller report",
+                    "progressive analysis",
+                    "progressive news"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Dangers, Opportunities, and Origins of a Constitutional Crisis: Daniel Sheehan 2019 Class #12",
+                    "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "3770",
+                "likeCount": "68",
+                "favoriteCount": "0",
+                "commentCount": "22"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6dO2_cyUrSWoUK5gYRCb2I2vCZ0",
+            "id": "aGdZ8Nykni8",
+            "snippet": {
+                "publishedAt": "2024-06-08T19:20:27Z",
+                "channelId": "UC430fzKHomIcLM872MSgCiw",
+                "title": "Having \ud83e\udd57 \ud83d\ude2cat #ucsc",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aGdZ8Nykni8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aGdZ8Nykni8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aGdZ8Nykni8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aGdZ8Nykni8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aGdZ8Nykni8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "E-MTB Adventures",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "Having \ud83e\udd57 \ud83d\ude2cat #ucsc",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "3762",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2-7Pyv5Kenzt2eQ0ayIHBfFmUbs",
+            "id": "--0Exi2rkAo",
+            "snippet": {
+                "publishedAt": "2018-08-31T19:37:44Z",
+                "channelId": "UCsSApz-BhTRhh-P7X9Gxq9A",
+                "title": "UC Santa Cruz - New Majors 2018-19",
+                "description": "Visit https://admissions.sa.ucsc.edu/majors/ for a list of all majors available at University of California, Santa Cruz.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/--0Exi2rkAo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/--0Exi2rkAo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/--0Exi2rkAo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/--0Exi2rkAo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/--0Exi2rkAo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "UC Santa Cruz Undergraduate Admissions",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UC Santa Cruz - New Majors 2018-19",
+                    "description": "Visit https://admissions.sa.ucsc.edu/majors/ for a list of all majors available at University of California, Santa Cruz."
+                }
+            },
+            "statistics": {
+                "viewCount": "3653",
+                "likeCount": "30",
+                "favoriteCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "KKEpyBWnt9ATQAHyViVmg0tBDMU",
+            "id": "4V5xnhkvSzI",
+            "snippet": {
+                "publishedAt": "2022-10-08T02:22:09Z",
+                "channelId": "UCfeosmuNHInTLy9Q7ZxsXfg",
+                "title": "UCSC First Month",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4V5xnhkvSzI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4V5xnhkvSzI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4V5xnhkvSzI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4V5xnhkvSzI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4V5xnhkvSzI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marissa McGuire",
+                "tags": [
+                    "ucsc",
+                    "travel",
+                    "santa cruz beach boardwalk",
+                    "us",
+                    "students",
+                    "student",
+                    "college",
+                    "ucsc students",
+                    "transfer student",
+                    "transfer students",
+                    "dorm",
+                    "dorm lifestyle",
+                    "bachelor",
+                    "bachelor in paradise",
+                    "kid bloom",
+                    "kid bloom concert",
+                    "wizthemc",
+                    "wizthemc concert",
+                    "trail",
+                    "hike",
+                    "hiking in santa cruz",
+                    "trees",
+                    "nature",
+                    "catalyst",
+                    "sammy the slug",
+                    "dorm tour",
+                    "ucsc dorm tour",
+                    "ucsc triple dorm tour"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "UCSC First Month",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "3606",
+                "likeCount": "58",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Llqc5y1qC4Jn_hIb3tgwcQ9ATD4",
+            "id": "Aw6DmvptAAc",
+            "snippet": {
+                "publishedAt": "2022-08-18T13:29:52Z",
+                "channelId": "UCMcv143fzWCt6kFM9pWm-IQ",
+                "title": "STS9 @ The Quarry UCSC 2022-08-13 Santa Cruz, CA Multi-Cam",
+                "description": "1 - 00:00 - Abcees\n2 - 13:03 - MOD\n3 - 25:35 - 986 Foot Tall Trees\n4 - 35:41 - Out of This World\n5 - 41:35 - Moon Socket\n6 - 54:19 - Strange Games\n7 - 1:03:59 - Circus\n\nSet 2\n8 - 1:15:53 - Lift you Up\n9 - 1:21:16 - Breathe In\n10 - 1:36:40 - Seed\n11 - 1:48:40 - Wika Cikana \n12 - 1:57:36 - New Dawn, New Day\n\nEncore:\n13 - 2:28:28 - Biggs\n14 - 2:32:55 - One, Two, Three\n\nThe second of two nights under the full moon at the newly renovated Quarry Amphitheater on the campus of University of California at Santa Cruz, STS9 performs in their hometown for the first time since 2008.\n\n#sts9 #santacruz #thequarry",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Aw6DmvptAAc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Aw6DmvptAAc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Aw6DmvptAAc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Aw6DmvptAAc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Aw6DmvptAAc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Must Have Media",
+                "tags": [
+                    "Must Have Media",
+                    "Santa Cruz",
+                    "California",
+                    "live music",
+                    "sts9",
+                    "sound",
+                    "tribe",
+                    "sector",
+                    "nine",
+                    "ucsc",
+                    "the quarry",
+                    "full moon",
+                    "jam",
+                    "electronic",
+                    "dub",
+                    "dance",
+                    "party"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "STS9 @ The Quarry UCSC 2022-08-13 Santa Cruz, CA Multi-Cam",
+                    "description": "1 - 00:00 - Abcees\n2 - 13:03 - MOD\n3 - 25:35 - 986 Foot Tall Trees\n4 - 35:41 - Out of This World\n5 - 41:35 - Moon Socket\n6 - 54:19 - Strange Games\n7 - 1:03:59 - Circus\n\nSet 2\n8 - 1:15:53 - Lift you Up\n9 - 1:21:16 - Breathe In\n10 - 1:36:40 - Seed\n11 - 1:48:40 - Wika Cikana \n12 - 1:57:36 - New Dawn, New Day\n\nEncore:\n13 - 2:28:28 - Biggs\n14 - 2:32:55 - One, Two, Three\n\nThe second of two nights under the full moon at the newly renovated Quarry Amphitheater on the campus of University of California at Santa Cruz, STS9 performs in their hometown for the first time since 2008.\n\n#sts9 #santacruz #thequarry"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "3363",
+                "likeCount": "72",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Xlt1yZAmWOOxm45aotdiPI102_8",
+            "id": "XkD46FKUpZg",
+            "snippet": {
+                "publishedAt": "2023-05-27T23:16:03Z",
+                "channelId": "UC24PltRdkfe4IySSqj2sJQg",
+                "title": "May 27, 2023",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XkD46FKUpZg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XkD46FKUpZg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XkD46FKUpZg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XkD46FKUpZg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XkD46FKUpZg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MTB El Loco",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "May 27, 2023",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "3250",
+                "likeCount": "92",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "NyNl452xlS6qsHckgrXUS4tmOTU",
+            "id": "1EqVgRSUrsw",
+            "snippet": {
+                "publishedAt": "2019-05-07T18:36:47Z",
+                "channelId": "UCmqxtYQ_6scR7wlTmInRCxA",
+                "title": "Impeachment and Censorship: Daniel Sheehan 2019 Class #10",
+                "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1EqVgRSUrsw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1EqVgRSUrsw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1EqVgRSUrsw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1EqVgRSUrsw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1EqVgRSUrsw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Romero Institute",
+                "tags": [
+                    "Daniel Sheehan",
+                    "2020 election",
+                    "impeachment",
+                    "Donald Trump",
+                    "First Amendment",
+                    "censorship"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Impeachment and Censorship: Daniel Sheehan 2019 Class #10",
+                    "description": "Online syllabus and materials can be found at: https://danielpsheehan.com/tja2019\n\nDonate so we can continue to produce high quality media: https://romeroinstitute.org/donate"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "3089",
+                "likeCount": "52",
+                "favoriteCount": "0",
+                "commentCount": "22"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pOaMo9wQ_taloSyh1SRmNaybx_8",
+            "id": "DlAGp-IjtJM",
+            "snippet": {
+                "publishedAt": "2023-06-04T05:50:43Z",
+                "channelId": "UC2UZ5OPTX0qoApj9fsbfpfQ",
+                "title": "SlugLoop Product Demo | Real-Time UCSC Bus Tracking",
+                "description": "Top 10 Finalist @ GDSC 2023 Global \n\nIn this video, we're introducing SlugLoop, a real-time bus tracking app designed to streamline campus transportation at UC Santa Cruz. By displaying live locations of loop buses, SlugLoop enables students to make more informed travel decisions and reduces pressure on local metro buses.\n\nSlugLoop\u2019s goal is to provide students with accurate, up-to-date information on bus locations, helping them avoid long wait times and minimize congestion on metro buses. Built with an intuitive interface, SlugLoop is a practical solution to improve campus mobility.\n\nCore Features:\n- Real-time map of UCSC loop bus locations\n- React-based UI for seamless mobile access\n- Firebase integration for real-time data storage\n- ExpressJS backend processing GPS data from loop buses\n- Designed for scalability and community maintenance\n\nCheck out the project here! https://devpost.com/software/slugloop  \nAnd the source code here! https://github.com/IdkwhatImD0ing/SlugLoop\n\n------------- \n\nFollow me on LinkedIn for more hackathon and startup content. https://www.linkedin.com/in/bill-zhang1/  \nCheck out my Github for more cool projects! https://github.com/IdkwhatImD0ing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DlAGp-IjtJM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DlAGp-IjtJM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DlAGp-IjtJM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DlAGp-IjtJM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Hackable",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SlugLoop Product Demo | Real-Time UCSC Bus Tracking",
+                    "description": "Top 10 Finalist @ GDSC 2023 Global \n\nIn this video, we're introducing SlugLoop, a real-time bus tracking app designed to streamline campus transportation at UC Santa Cruz. By displaying live locations of loop buses, SlugLoop enables students to make more informed travel decisions and reduces pressure on local metro buses.\n\nSlugLoop\u2019s goal is to provide students with accurate, up-to-date information on bus locations, helping them avoid long wait times and minimize congestion on metro buses. Built with an intuitive interface, SlugLoop is a practical solution to improve campus mobility.\n\nCore Features:\n- Real-time map of UCSC loop bus locations\n- React-based UI for seamless mobile access\n- Firebase integration for real-time data storage\n- ExpressJS backend processing GPS data from loop buses\n- Designed for scalability and community maintenance\n\nCheck out the project here! https://devpost.com/software/slugloop  \nAnd the source code here! https://github.com/IdkwhatImD0ing/SlugLoop\n\n------------- \n\nFollow me on LinkedIn for more hackathon and startup content. https://www.linkedin.com/in/bill-zhang1/  \nCheck out my Github for more cool projects! https://github.com/IdkwhatImD0ing"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "3104",
+                "likeCount": "28",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tl5QW-AVa5Kbd9Tsdqkl97lOtyE",
+            "id": "CcNCMICY-Ls",
+            "snippet": {
+                "publishedAt": "2021-01-06T00:48:32Z",
+                "channelId": "UC2Y3VtGdzR6ZPYUijCY84pQ",
+                "title": "The Human Pangenome Project & UC Santa Cruz",
+                "description": "Using technologies developed here at UC Santa Cruz, scientists are on the cusp of creating a high-resolution reference genome that also reflects the full spectrum of human diversity. Hear from the UCSC researchers doing the challenging computational work that will finally create a diversified human reference genome.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CcNCMICY-Ls/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CcNCMICY-Ls/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CcNCMICY-Ls/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CcNCMICY-Ls/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CcNCMICY-Ls/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "UC Santa Cruz Genomics Institute",
+                "tags": [
+                    "genomics",
+                    "UC Santa Cruz",
+                    "bioinformatics",
+                    "computer science",
+                    "molecular biology",
+                    "computational genomics",
+                    "sequence analysis",
+                    "genome comparison",
+                    "human variation",
+                    "cancer genomics",
+                    "pangenome",
+                    "HumanPangenome"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Human Pangenome Project & UC Santa Cruz",
+                    "description": "Using technologies developed here at UC Santa Cruz, scientists are on the cusp of creating a high-resolution reference genome that also reflects the full spectrum of human diversity. Hear from the UCSC researchers doing the challenging computational work that will finally create a diversified human reference genome."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "2972",
+                "likeCount": "26",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rvNmGwpNGm6vxeUPBDBIs390FoY",
+            "id": "I2ZyW7Ewkrs",
+            "snippet": {
+                "publishedAt": "2022-11-07T17:58:36Z",
+                "channelId": "UCJ_8ob7BxCp7e64JIehQV2Q",
+                "title": "November 7, 2022",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I2ZyW7Ewkrs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I2ZyW7Ewkrs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I2ZyW7Ewkrs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/I2ZyW7Ewkrs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/I2ZyW7Ewkrs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Connie \u201cChonnie\u201d Peters",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "November 7, 2022",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "2614",
+                "likeCount": "42",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Twlm-yCL2VGHbSbZN3eRyFmoXMw",
+            "id": "mCZ76eymEKU",
+            "snippet": {
+                "publishedAt": "2020-01-09T20:00:06Z",
+                "channelId": "UCqvhwNenCUfMJG2nRsja9kw",
+                "title": "How to Recreate \"Schotter\" (1960) Using P5JS",
+                "description": "In this video tutorial I will explain how you can recreate Schotter in P5JS and how you can make it your own. Schotter was created by George Nees in the 1960's and is one of the earliest examples of procedural art. If you follow this tutorial be sure to give it your own spin!\n\nJAlexCarney.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mCZ76eymEKU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mCZ76eymEKU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mCZ76eymEKU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mCZ76eymEKU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mCZ76eymEKU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "J Alex Carney",
+                "tags": [
+                    "p5js",
+                    "how to",
+                    "tutorial",
+                    "programming",
+                    "schotter",
+                    "javascript",
+                    "html5",
+                    "procedural art"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How to Recreate \"Schotter\" (1960) Using P5JS",
+                    "description": "In this video tutorial I will explain how you can recreate Schotter in P5JS and how you can make it your own. Schotter was created by George Nees in the 1960's and is one of the earliest examples of procedural art. If you follow this tutorial be sure to give it your own spin!\n\nJAlexCarney.com"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "2482",
+                "likeCount": "65",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "34FG3GXZrLTVbhFOm78CqveEz3E",
+            "id": "B_50is1GQyo",
+            "snippet": {
+                "publishedAt": "2023-04-21T05:18:32Z",
+                "channelId": "UCiO5fBU9_85CIWSfDuW1pxA",
+                "title": "the best college holiday\u2026 #420 #ucsantacruz #ucsc #santacruz #california",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B_50is1GQyo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B_50is1GQyo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B_50is1GQyo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B_50is1GQyo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B_50is1GQyo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Matthias Lemm",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "the best college holiday\u2026 #420 #ucsantacruz #ucsc #santacruz #california",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "2465",
+                "likeCount": "44",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3zP5TQ77Mu22GXoZA6mc4zBx39A",
+            "id": "Pb6kpxU6QWU",
+            "snippet": {
+                "publishedAt": "2020-07-29T17:35:02Z",
+                "channelId": "UCtqDtq4zSVyq0Mbx9P-fhqw",
+                "title": "\"Hotness\"  \u1d50\u1d43\u02e1\u1d49 \u1d5b\u1d49\u02b3",
+                "description": "Seja bem vindo, esse \u00e9 o come\u00e7o de uma nova era acompanhada com novas tecnologias estudadas, fa\u00e7a bom proveito do \u00e1udio e sinta-se acolhido \u2764\n\n    D\u00eas de j\u00e1, me perdoeem, mudei a est\u00e9tica denovokkkkkk\n\n\n\n \u00ac Esse \u00e1udio n\u00e3o vai te tornar literalmente uma \"gostosura\", e sim no sentido figurado. Ent\u00e3o n\u00e3o se preocupemkkk.\n\n\n\nCaracter\u00edsticas no coment\u00e1rio fixado \ud83d\udccc\n\n\n\n\n\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\n \u00b7 Ou\u00e7a APENAS 3 vezes (s\u00e9rio, acabei desrespeitando o limite de escutas pra ver se o \u00e1udio estava funcionando e fiquei com um baita dor de cabe\u00e7a).\n\n \u00b7 Beba \u00e1gua antes e depois (210ml).\n\n \u00b7 Pode ouvir como quiser, mas recomendo que use fones para que a tecnologia aplicada no \u00e1udio tenha efeito completo.\n\n \u00b7 N\u00e3o me responsabilizo pelos efeitos colaterais se desrespeitar o limite de escutas.\n\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\n\nAfirma\u00e7\u00f5es\nAfirma\u00e7\u00f5es\nGrabovoi\nFrequ\u00eancias Binaurais",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pb6kpxU6QWU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pb6kpxU6QWU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pb6kpxU6QWU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pb6kpxU6QWU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pb6kpxU6QWU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Grey.",
+                "tags": [
+                    "sexy",
+                    "magn\u00e9tico",
+                    "sensual",
+                    "sexy luminals",
+                    "subliminal",
+                    "biokinesis",
+                    "biokinesis subliminal",
+                    "Subliminal biokinesis",
+                    "subs biokinesis",
+                    "bio subliminal",
+                    "luminals",
+                    "luminal",
+                    "forces",
+                    "resultados r\u00e1pidos"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "\"Hotness\"  \u1d50\u1d43\u02e1\u1d49 \u1d5b\u1d49\u02b3",
+                    "description": "Seja bem vindo, esse \u00e9 o come\u00e7o de uma nova era acompanhada com novas tecnologias estudadas, fa\u00e7a bom proveito do \u00e1udio e sinta-se acolhido \u2764\n\n    D\u00eas de j\u00e1, me perdoeem, mudei a est\u00e9tica denovokkkkkk\n\n\n\n \u00ac Esse \u00e1udio n\u00e3o vai te tornar literalmente uma \"gostosura\", e sim no sentido figurado. Ent\u00e3o n\u00e3o se preocupemkkk.\n\n\n\nCaracter\u00edsticas no coment\u00e1rio fixado \ud83d\udccc\n\n\n\n\n\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\n \u00b7 Ou\u00e7a APENAS 3 vezes (s\u00e9rio, acabei desrespeitando o limite de escutas pra ver se o \u00e1udio estava funcionando e fiquei com um baita dor de cabe\u00e7a).\n\n \u00b7 Beba \u00e1gua antes e depois (210ml).\n\n \u00b7 Pode ouvir como quiser, mas recomendo que use fones para que a tecnologia aplicada no \u00e1udio tenha efeito completo.\n\n \u00b7 N\u00e3o me responsabilizo pelos efeitos colaterais se desrespeitar o limite de escutas.\n\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\n\nAfirma\u00e7\u00f5es\nAfirma\u00e7\u00f5es\nGrabovoi\nFrequ\u00eancias Binaurais"
+                }
+            },
+            "statistics": {
+                "viewCount": "2432",
+                "likeCount": "41",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 50,
+        "resultsPerPage": 50
+    }
+}
