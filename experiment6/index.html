@@ -49,19 +49,22 @@
 			</div>
 
 			<div class="minor-section">
-				<h2>Description</h2>
-				<p>What are you trying to acomplish with this experiment?</p>
-			</div>
+                <h2>Description</h2>
+                <p>The goal of this experiment was to allow people to see what youtube videos are being made in other parts of the world. So, you can select any latitude and longitude coordinates alongside a radius in miles, and this will show you the top 50 viewed videos that are tagged as occurring in that radius. You will need to enter in your google API key before being able to use it, <a href="https://console.cloud.google.com/apis/dashboard">which you can generate for free here.</a> It should use 101 credits, with one call to search and a second to video list.</p>
+            </div>
 
-			<div class="minor-section">
-				<h2>Technical</h2>
-				<p>Describe in detail what you did technically and how it works?</p>
-			</div>
 
-			<div class="minor-section">
-				<h2>Reflection</h2>
-				<p>Each person that worked on the code should reflect on the process, the difficulties, and the successes of the experiment.</p>
-			</div>
+            <div class="minor-section">
+                <h2>Technical</h2>
+                <p>It makes a call to the Youtube search API, which allows you to select only videos tagged as being filmed in a radius around a set of coordinates. It then makes a second call to the video list API, which takes the videos found by the search and retrieves more detailed information. From there, it only needs to display them all on the webpage.</p>
+            </div>
+
+
+            <div class="minor-section">
+                <h2>Reflection</h2>
+                <p>This experiment went astoundingly well. I was shocked with how good the YouTube API was. After my experience last week with the rhyming API, I assumed it just wouldn’t really work. But it did exactly what I wanted to. Similarly, while I admittedly didn’t write the style sheet myself, it again looked almost exactly how I wanted it to. A high point for this project was when I ran the API with a proper location for the first time. Like I said, I was kind of pessimistic about the API’s functionality, but when it gave me those first results for UCSC and it was almost exactly what I wanted, it was perfect. A low point was when I ran out of API credits. The search call uses 100 credits, and you only get 10,000 for free, so the first day I was working on this, I managed to use them all. Thankfully, I hadn’t procrastinated the assignment too badly, so I finished it the next day, but that was very annoying.</p>
+            </div>
+
 
 		</section>
 		<nav id="links" class="minor-section">
